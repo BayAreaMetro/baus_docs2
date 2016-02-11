@@ -1,0 +1,5 @@
+site_name: Bay Area UrbanSim Documentation
+pages:
+- Home: index.md
+- Projects: projects.md
+theme: readthedocs
