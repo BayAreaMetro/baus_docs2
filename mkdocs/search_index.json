@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Bay Area UrbanSim Documentation\n\n\nThe site provides current docuementation for MTC's implementation of the UrbanSim land use model in the San Francsico Bay Area.\n\n\nProjects\n\n\nDevelopment\n\n\nUsers Guide\n\n\nData Repository\n\n\nMichael Reilly mreilly@mtc.ca.gov", 
+            "text": "Bay Area UrbanSim Documentation\n\n\nThe site provides current docuementation for MTC's implementation of the UrbanSim land use model in the San Francsico Bay Area.\n\n\nProjects\n\n\nDevelopment\n\n\nUsers Guide\n\n\nData Repository\n\n\nfor further information please contact Michael Reilly mreilly@mtc.ca.gov", 
             "title": "Home"
         }, 
         {
@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/#data-repository", 
-            "text": "Michael Reilly mreilly@mtc.ca.gov", 
+            "text": "for further information please contact Michael Reilly mreilly@mtc.ca.gov", 
             "title": "Data Repository"
         }, 
         {
