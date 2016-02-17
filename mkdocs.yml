@@ -2,4 +2,7 @@ site_name: Bay Area UrbanSim Documentation
 pages:
 - Home: index.md
 - Projects: projects.md
+- Development: development.md
+- Users Guide: usersguide.md
+- Data Repository: datarepository.md
 theme: readthedocs
