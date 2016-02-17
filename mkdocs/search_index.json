@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Bay Area UrbanSim Documentation\n\n\nFor full documentation vis\n\n\nProjects.md\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Bay Area UrbanSim Documentation\n\n\nFor full documentation vis\n\n\nProjects\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
@@ -11,9 +11,9 @@
             "title": "Bay Area UrbanSim Documentation"
         }, 
         {
-            "location": "/#projectsmd", 
+            "location": "/#projects", 
             "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Projects.md"
+            "title": "Projects"
         }, 
         {
             "location": "/#project-layout", 
