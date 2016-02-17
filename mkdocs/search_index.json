@@ -29,6 +29,36 @@
             "location": "/projects/#projects", 
             "text": "tttt", 
             "title": "Projects"
+        }, 
+        {
+            "location": "/development/", 
+            "text": "Projects\n\n\ntttt", 
+            "title": "Development"
+        }, 
+        {
+            "location": "/development/#projects", 
+            "text": "tttt", 
+            "title": "Projects"
+        }, 
+        {
+            "location": "/usersguide/", 
+            "text": "Projects\n\n\ntttt", 
+            "title": "Users Guide"
+        }, 
+        {
+            "location": "/usersguide/#projects", 
+            "text": "tttt", 
+            "title": "Projects"
+        }, 
+        {
+            "location": "/datarepository/", 
+            "text": "Data Repository\n\n\ndata\ntttt", 
+            "title": "Data Repository"
+        }, 
+        {
+            "location": "/datarepository/#data-repository", 
+            "text": "data\ntttt", 
+            "title": "Data Repository"
         }
     ]
 }

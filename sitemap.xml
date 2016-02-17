@@ -17,4 +17,28 @@
     </url>
     
 
+    
+    <url>
+     <loc>None/development/</loc>
+     <lastmod>2016-02-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/usersguide/</loc>
+     <lastmod>2016-02-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/datarepository/</loc>
+     <lastmod>2016-02-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
 </urlset>
