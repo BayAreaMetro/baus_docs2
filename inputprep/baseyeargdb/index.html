@@ -106,7 +106,7 @@
                 
                     <li><a class="toctree-l4" href="#fill-in-missing-values-using-xxxx">Fill In Missing Values Using xxxx</a></li>
                 
-                    <li><a class="toctree-l4" href="#spatialops">spatialops</a></li>
+                    <li><a class="toctree-l4" href="#tag-parcels-with-zone_id">Tag Parcels with zone_id</a></li>
                 
                     <li><a class="toctree-l4" href="#match-aggregate">Match Aggregate</a></li>
                 
@@ -235,14 +235,14 @@
 <h2 id="merge-the-county-parcels-into-a-regional-parcel-database">Merge the County Parcels into a Regional Parcel Database</h2>
 <h2 id="merge-parcels-for-condos-common-areas-and-stacked-duplicate-parcels">Merge Parcels for Condos, Common Areas, and Stacked Duplicate Parcels</h2>
 <h2 id="fill-in-missing-values-using-xxxx">Fill In Missing Values Using xxxx</h2>
-<h2 id="spatialops">spatialops</h2>
-<p>Tags parcels with TAZ (zone) ID using <a href="https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/spatialops.py#10">point-in-poly</a> or <a href="https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/spatialops.py#L14">closest</a> when parcel falls outside the TAZ map.</p>
+<h2 id="tag-parcels-with-zone_id">Tag Parcels with zone_id</h2>
+<p>Tags parcels with TAZ (zone) ID using <a href="https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/spatialops.py#L10">point-in-poly</a> or <a href="https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/spatialops.py#L14">closest</a> when parcel falls outside the TAZ map.</p>
 <h2 id="match-aggregate">Match Aggregate</h2>
 <h2 id="impute-prices">Impute Prices</h2>
 <h2 id="allocate-demand-agents-to-buuldings">Allocate Demand Agents to Buuldings</h2>
 <h2 id="perform-quality-control-summaries">Perform Quality Control Summaries</h2>
 <h2 id="export-integrated-parcels">Export Integrated Parcels</h2>
-<p>Regional parcel geodatabase is exported to HDF5 and shapefile.</p>
+<p><a href="https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/export_to_h5.py">export_to_h5</a> <a href="https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/export_to_h5.py#L15">maps</a> development_type_id to building_type_id, sets the h5 <a href="https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/export_to_h5.py#L13">path</a>, and [stores](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/export_to_h5.py#L61] the tables in the hdf5 (among other things). </p>
               
             </div>
           </div>
