@@ -32,12 +32,12 @@
         }, 
         {
             "location": "/inputprep/baseyeargdb/", 
-            "text": "Base Year GeoDatabase", 
+            "text": "Base Year GeoDatabase\n\n\nBay Area UrbanSim requires a representation of the region's parcels, buildings, households, and employees for the base simulation year (2010). This data is pulled together, integrated, and clean up using a series of scripts originally writen by \nproject license\n \n\n\nThe steps below follow the code residing \nhere", 
             "title": "Base Year Geodatabase"
         }, 
         {
             "location": "/inputprep/baseyeargdb/#base-year-geodatabase", 
-            "text": "", 
+            "text": "Bay Area UrbanSim requires a representation of the region's parcels, buildings, households, and employees for the base simulation year (2010). This data is pulled together, integrated, and clean up using a series of scripts originally writen by  project license    The steps below follow the code residing  here", 
             "title": "Base Year GeoDatabase"
         }, 
         {
