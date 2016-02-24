@@ -10,11 +10,13 @@
     
 
     
+        
     <url>
-     <loc>None/projects/</loc>
+     <loc>None/projects/pba40/</loc>
      <lastmod>2016-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     
 
     
@@ -28,13 +30,53 @@
     
         
     <url>
-     <loc>None/usersguide/ttt/</loc>
+     <loc>None/inputprep/baseyeargdb/</loc>
      <lastmod>2016-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/usersguide/t2/</loc>
+     <loc>None/inputprep/baseyearzoning/</loc>
+     <lastmod>2016-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/usersguide/computer/</loc>
+     <lastmod>2016-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/usersguide/setup/</loc>
+     <lastmod>2016-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/usersguide/input/</loc>
+     <lastmod>2016-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/usersguide/execution/</loc>
+     <lastmod>2016-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/usersguide/output/</loc>
+     <lastmod>2016-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/usersguide/schematic/</loc>
      <lastmod>2016-02-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
