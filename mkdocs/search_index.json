@@ -51,14 +51,24 @@
             "title": "Projects"
         }, 
         {
-            "location": "/usersguide/", 
-            "text": "Projects\n\n\ntttt", 
-            "title": "Users Guide"
+            "location": "/usersguide/ttt/", 
+            "text": "ttt", 
+            "title": "ttt"
         }, 
         {
-            "location": "/usersguide/#projects", 
-            "text": "tttt", 
-            "title": "Projects"
+            "location": "/usersguide/ttt/#ttt", 
+            "text": "", 
+            "title": "ttt"
+        }, 
+        {
+            "location": "/usersguide/t2/", 
+            "text": "t2\n\n\nttttt", 
+            "title": "t2"
+        }, 
+        {
+            "location": "/usersguide/t2/#t2", 
+            "text": "ttttt", 
+            "title": "t2"
         }, 
         {
             "location": "/datarepository/", 
