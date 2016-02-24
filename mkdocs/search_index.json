@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/inputprep/baseyeargdb/", 
-            "text": "Base Year GeoDatabase\n\n\nBay Area UrbanSim requires a representation of the region's parcels, buildings, households, and employees for the base simulation year (2010). This data is pulled together, integrated, and clean up using a series of scripts originally writen by \nUDST\n \n\n\nThe steps below follow the code residing \nhere\n \n\n\nLoad and Clean County Parcel Files\n\n\nCounty-Specific Cleaning\n\n\nMerge the County Parcels into a Regional Parcel Database\n\n\nMerge Parcels for Condos, Common Areas, and Stacked Duplicate Parcels\n\n\nFill In Missing Values Using xxxx\n\n\nTag Parcels with zone_id\n\n\nTags parcels with TAZ (zone) ID using \npoint-in-poly\n or \nclosest\n when parcel falls outside the TAZ map.\n\n\nMatch Aggregate\n\n\nImpute Prices\n\n\nAllocate Demand Agents to Buuldings\n\n\nPerform Quality Control Summaries\n\n\nExport Integrated Parcels\n\n\nThe \nexport_to_h5\n script:\n\n \nmaps\n development_type_id to building_type_id\n\n sets the h5 \npath\n\n\n \nstores\n the tables in the hdf5\n\n among other things", 
+            "text": "Base Year GeoDatabase\n\n\nBay Area UrbanSim requires a representation of the region's parcels, buildings, households, and employees for the base simulation year (2010). This data is pulled together, integrated, and clean up using a series of scripts originally writen by \nUDST\n \n\n\nThe steps below follow the code residing \nhere\n \n\n\nLoad and Clean County Parcel Files\n\n\nCounty-Specific Cleaning\n\n\nMerge the County Parcels into a Regional Parcel Database\n\n\nMerge Parcels for Condos, Common Areas, and Stacked Duplicate Parcels\n\n\nFill In Missing Values Using xxxx\n\n\nTag Parcels with zone_id\n\n\nTags parcels with TAZ (zone) ID using \npoint-in-poly\n or \nclosest\n when parcel falls outside the TAZ map.\n\n\nMatch Aggregate\n\n\nImpute Prices\n\n\nAllocate Demand Agents to Buuldings\n\n\nPerform Quality Control Summaries\n\n\nExport Integrated Parcels\n\n\nThe \nexport_to_h5\n script:\n\n\n\n\n\n\nmaps\n development_type_id to building_type_id\n\n\n\n\n\n\nsets the h5 \npath\n\n\n\n\n\n\nstores\n the tables in the hdf5\n\n\n\n\n\n\namong other things", 
             "title": "Base Year Geodatabase"
         }, 
         {
@@ -92,7 +92,7 @@
         }, 
         {
             "location": "/inputprep/baseyeargdb/#export-integrated-parcels", 
-            "text": "The  export_to_h5  script:   maps  development_type_id to building_type_id  sets the h5  path    stores  the tables in the hdf5  among other things", 
+            "text": "The  export_to_h5  script:    maps  development_type_id to building_type_id    sets the h5  path    stores  the tables in the hdf5    among other things", 
             "title": "Export Integrated Parcels"
         }, 
         {
