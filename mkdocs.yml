@@ -2,7 +2,7 @@ site_name: Bay Area UrbanSim Documentation
 pages:
 - Home: index.md
 - Projects: 
-    - 'Plan Bay Area 2040': 'pba40.md'
+    - 'Plan Bay Area 2040': 'projects/pba40.md'
 - Development: development.md
 - Input Data Preparation:
     - 'Base Year Geodatabase': 'inputprep/baseyeargdb.md'
@@ -13,6 +13,6 @@ pages:
     - 'Input Files': 'usersguide/input.md'
     - 'Model Exectution': 'usersguide/execution.md'
     - 'Output Files': 'usersguide/output.md'
-    - 'Model Schematic': 'userguide/schematic.md
+    - 'Model Schematic': 'usersguide/schematic.md'
 - Data Repository: datarepository.md
 theme: readthedocs
