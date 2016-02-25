@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Bay Area UrbanSim Documentation\n\n\nThe site provides current docuementation for MTC's implementation of the UrbanSim land use model in the San Francsico Bay Area.\n\n\nInformation about UrbanSim in general, including how to intall the generic software repositories can be found at https://udst.github.io/urbansim/index.html\n\n\nfor further information please contact Michael Reilly mreilly@mtc.ca.gov", 
+            "text": "Bay Area UrbanSim Documentation\n\n\nThe site provides current docuementation for MTC's implementation of the UrbanSim land use model in the San Francsico Bay Area.\n\n\nInformation about UrbanSim in general, including how to intall the generic software repositories, can be found on the \nUDST UrbanSim site\n.\n\n\nFor further information please contact Michael Reilly mreilly@mtc.ca.gov", 
             "title": "Home"
         }, 
         {
             "location": "/#bay-area-urbansim-documentation", 
-            "text": "The site provides current docuementation for MTC's implementation of the UrbanSim land use model in the San Francsico Bay Area.  Information about UrbanSim in general, including how to intall the generic software repositories can be found at https://udst.github.io/urbansim/index.html  for further information please contact Michael Reilly mreilly@mtc.ca.gov", 
+            "text": "The site provides current docuementation for MTC's implementation of the UrbanSim land use model in the San Francsico Bay Area.  Information about UrbanSim in general, including how to intall the generic software repositories, can be found on the  UDST UrbanSim site .  For further information please contact Michael Reilly mreilly@mtc.ca.gov", 
             "title": "Bay Area UrbanSim Documentation"
         }, 
         {
