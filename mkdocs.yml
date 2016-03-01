@@ -3,6 +3,7 @@ pages:
 - Home: index.md
 - Projects: 
     - 'Plan Bay Area 2040': 'projects/pba40.md'
+    - 'Draft Scenario Definition': 'projects/scenarios_def_pba2040.md'
 - Development: development.md
 - Input Data Preparation:
     - 'Base Year Geodatabase': 'inputprep/baseyeargdb.md'
