@@ -21,6 +21,41 @@
             "title": "Plan Bay Area 2040"
         }, 
         {
+            "location": "/projects/scenarios_def_pba2040/", 
+            "text": "PBA40 Draft Scenario Definition\n\n\nConcise Scenario Comparion\n\n\n------- | :----------0----------: | :----------1----------: | :----------2----------: | :----------3----------: |       \n\nZoning  | existing                | upzone select PDAs      | upzone PDAs to placetype| upzone TPAs in Big3/core|\nUGB     |                         |                         |                         |                         | \nCaps    |                         |                         |                         |                         |\nDevProj |                         |                         |                         |                         |\nSubFee  |                         |                         |                         |                         |\nOther   |                         |                         |                         |                         |\nNet     |                         |                         |                         |                         |\n\n\n\n\n\n\n\n\nS\n\n\nZoning\n\n\nUGB\n\n\n\n\n\n\n\n\n\n\n0\n\n\nexisting\n\n\nexpands suburban area 389 sq mi\n\n\n\n\n\n\n1\n\n\nupzone\n\n\nContent Cell\n\n\n\n\n\n\n\n\nScenario 0 (the No Project)\n\n\nScenario 1\n\n\nScenario 2\n\n\nScenario 3", 
+            "title": "Draft Scenario Definition"
+        }, 
+        {
+            "location": "/projects/scenarios_def_pba2040/#pba40-draft-scenario-definition", 
+            "text": "", 
+            "title": "PBA40 Draft Scenario Definition"
+        }, 
+        {
+            "location": "/projects/scenarios_def_pba2040/#concise-scenario-comparion", 
+            "text": "------- | :----------0----------: | :----------1----------: | :----------2----------: | :----------3----------: |        \nZoning  | existing                | upzone select PDAs      | upzone PDAs to placetype| upzone TPAs in Big3/core|\nUGB     |                         |                         |                         |                         | \nCaps    |                         |                         |                         |                         |\nDevProj |                         |                         |                         |                         |\nSubFee  |                         |                         |                         |                         |\nOther   |                         |                         |                         |                         |\nNet     |                         |                         |                         |                         |     S  Zoning  UGB      0  existing  expands suburban area 389 sq mi    1  upzone  Content Cell", 
+            "title": "Concise Scenario Comparion"
+        }, 
+        {
+            "location": "/projects/scenarios_def_pba2040/#scenario-0-the-no-project", 
+            "text": "", 
+            "title": "Scenario 0 (the No Project)"
+        }, 
+        {
+            "location": "/projects/scenarios_def_pba2040/#scenario-1", 
+            "text": "", 
+            "title": "Scenario 1"
+        }, 
+        {
+            "location": "/projects/scenarios_def_pba2040/#scenario-2", 
+            "text": "", 
+            "title": "Scenario 2"
+        }, 
+        {
+            "location": "/projects/scenarios_def_pba2040/#scenario-3", 
+            "text": "", 
+            "title": "Scenario 3"
+        }, 
+        {
             "location": "/development/", 
             "text": "Projects\n\n\ntttt", 
             "title": "Development"
