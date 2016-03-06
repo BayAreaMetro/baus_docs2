@@ -11,87 +11,87 @@
             "title": "Bay Area UrbanSim Documentation"
         }, 
         {
-            "location": "/projects/pba40/", 
+            "location": "/pba40/pba40/", 
             "text": "Plan Bay Area 2040\n\n\nBay Area UrbanSim is being used to assess scenarios for \nPlan Bay Area 2040\n.\n\n\nDraft Scenario Definitions", 
             "title": "Plan Bay Area 2040"
         }, 
         {
-            "location": "/projects/pba40/#plan-bay-area-2040", 
+            "location": "/pba40/pba40/#plan-bay-area-2040", 
             "text": "Bay Area UrbanSim is being used to assess scenarios for  Plan Bay Area 2040 .  Draft Scenario Definitions", 
             "title": "Plan Bay Area 2040"
         }, 
         {
-            "location": "/projects/scenarios_def_pba2040/", 
+            "location": "/pba40/scenarios_def_pba2040/", 
             "text": "PBA40 Draft Scenario Definition\n\n\nConcise Scenario Comparion\n\n\n\n\n\n\n\n\nS\n\n\n0\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\n\n\n\n\n\n\nZoning\n\n\nexisting\n\n\nupzone select PDAs\n\n\nupzone PDAs to placetype\n\n\nupzone TPAs in Big3/core\n\n\n\n\n\n\nUGB\n\n\nexpand by 389 sq mi\n\n\nexpand by 565 sq mi\n\n\nexisting UGBs/city limits add 68 sq mi\n\n\ncity boundaries\n\n\n\n\n\n\nCaps\n\n\nexisting\n\n\nexisting\n\n\nraises SF OF cap to 1.5m\n\n\ndrops SF OF cap\n\n\n\n\n\n\nDevProj\n\n\nwhere scen0=1\n\n\nwhere scen1=1\n\n\nwhere scen2=1\n\n\nwhere scen3=1\n\n\n\n\n\n\nSec Units\n\n\nexisting\n\n\neverywhere\n\n\npdas\n\n\nin big 3\n\n\n\n\n\n\nSubFee\n\n\nsb743\n\n\nobag tiering sb743\n\n\nobag tiering sb743\n\n\nobag tiering sb743\n\n\n\n\n\n\nVMT Fee\n\n\nnone\n\n\ncomm\n\n\ncomm to pda\n\n\nres to tpa\n\n\n\n\n\n\nPkg Mins\n\n\nexisting\n\n\ndecreased in pdas along rail\n\n\ndecreased in core pdas\n\n\ndecreased in big 3 and neighbors\n\n\n\n\n\n\nTax\n\n\n\n\nhousing capgains\n\n\n\n\nland value tax in big 3 and neighbors\n\n\n\n\n\n\nNet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScenario 0 (the No Project)\n\n\nScenario 1\n\n\nScenario 2\n\n\nScenario 3", 
             "title": "Draft Scenario Definition"
         }, 
         {
-            "location": "/projects/scenarios_def_pba2040/#pba40-draft-scenario-definition", 
+            "location": "/pba40/scenarios_def_pba2040/#pba40-draft-scenario-definition", 
             "text": "", 
             "title": "PBA40 Draft Scenario Definition"
         }, 
         {
-            "location": "/projects/scenarios_def_pba2040/#concise-scenario-comparion", 
+            "location": "/pba40/scenarios_def_pba2040/#concise-scenario-comparion", 
             "text": "S  0  1  2  3      Zoning  existing  upzone select PDAs  upzone PDAs to placetype  upzone TPAs in Big3/core    UGB  expand by 389 sq mi  expand by 565 sq mi  existing UGBs/city limits add 68 sq mi  city boundaries    Caps  existing  existing  raises SF OF cap to 1.5m  drops SF OF cap    DevProj  where scen0=1  where scen1=1  where scen2=1  where scen3=1    Sec Units  existing  everywhere  pdas  in big 3    SubFee  sb743  obag tiering sb743  obag tiering sb743  obag tiering sb743    VMT Fee  none  comm  comm to pda  res to tpa    Pkg Mins  existing  decreased in pdas along rail  decreased in core pdas  decreased in big 3 and neighbors    Tax   housing capgains   land value tax in big 3 and neighbors    Net", 
             "title": "Concise Scenario Comparion"
         }, 
         {
-            "location": "/projects/scenarios_def_pba2040/#scenario-0-the-no-project", 
+            "location": "/pba40/scenarios_def_pba2040/#scenario-0-the-no-project", 
             "text": "", 
             "title": "Scenario 0 (the No Project)"
         }, 
         {
-            "location": "/projects/scenarios_def_pba2040/#scenario-1", 
+            "location": "/pba40/scenarios_def_pba2040/#scenario-1", 
             "text": "", 
             "title": "Scenario 1"
         }, 
         {
-            "location": "/projects/scenarios_def_pba2040/#scenario-2", 
+            "location": "/pba40/scenarios_def_pba2040/#scenario-2", 
             "text": "", 
             "title": "Scenario 2"
         }, 
         {
-            "location": "/projects/scenarios_def_pba2040/#scenario-3", 
+            "location": "/pba40/scenarios_def_pba2040/#scenario-3", 
             "text": "", 
             "title": "Scenario 3"
         }, 
         {
-            "location": "/projects/zoning_pba40/", 
+            "location": "/pba40/zoning_pba40/", 
             "text": "Zoning, UGBs, and Caps\n\n\ntt", 
             "title": "Zoning, UGBs, and Caps"
         }, 
         {
-            "location": "/projects/zoning_pba40/#zoning-ugbs-and-caps", 
+            "location": "/pba40/zoning_pba40/#zoning-ugbs-and-caps", 
             "text": "tt", 
             "title": "Zoning, UGBs, and Caps"
         }, 
         {
-            "location": "/projects/devproj_pba40/", 
+            "location": "/pba40/devproj_pba40/", 
             "text": "Deelopment Projects\n\n\ntttt", 
             "title": "Development Projects"
         }, 
         {
-            "location": "/projects/devproj_pba40/#deelopment-projects", 
+            "location": "/pba40/devproj_pba40/#deelopment-projects", 
             "text": "tttt", 
             "title": "Deelopment Projects"
         }, 
         {
-            "location": "/projects/secondunits_pba40/", 
+            "location": "/pba40/secondunits_pba40/", 
             "text": "Secondary Units\n\n\nttt", 
             "title": "Secondary Units"
         }, 
         {
-            "location": "/projects/secondunits_pba40/#secondary-units", 
+            "location": "/pba40/secondunits_pba40/#secondary-units", 
             "text": "ttt", 
             "title": "Secondary Units"
         }, 
         {
-            "location": "/projects/accounts_pba40/", 
+            "location": "/pba40/accounts_pba40/", 
             "text": "Subsidies, Fees, and Other Policies Represented by Accounts\n\n\nttttt", 
             "title": "Subsidies, Fees, and Other Account Policies"
         }, 
         {
-            "location": "/projects/accounts_pba40/#subsidies-fees-and-other-policies-represented-by-accounts", 
+            "location": "/pba40/accounts_pba40/#subsidies-fees-and-other-policies-represented-by-accounts", 
             "text": "ttttt", 
             "title": "Subsidies, Fees, and Other Policies Represented by Accounts"
         }, 
