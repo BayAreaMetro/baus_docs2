@@ -9,7 +9,7 @@
 **Caps** | existing | existing | raises SF OF cap to 1.5m | drops SF OF cap 
 **DevProj** | where scen0=1 | where scen1=1 | where scen2=1 | where scen3=1                         
 **Sec Units** | existing | everywhere | pdas | in big 3
-**SubFee** | sb743 | obag tiering sb743 | obag tiering sb743 | obag tiering sb743 
+**SubFee** | sb743 | redev obag tiering sb743 | inclusionary obag tiering sb743 | obag tiering sb743 
 **VMT Fee** | none | comm | comm to pda | res to tpa
 **Pkg Mins** | existing | decreased in pdas along rail | decreased in core pdas | decreased in big 3 and neighbors
 **Tax** |  | housing capgains | | land value tax in big 3 and neighbors                         
