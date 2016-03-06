@@ -2,12 +2,12 @@ site_name: Bay Area UrbanSim Documentation
 pages:
 - Home: index.md
 - Projects: 
-    - 'Plan Bay Area 2040': 'projects/pba40.md'
-    - 'Draft Scenario Definition': 'projects/scenarios_def_pba2040.md'
-    - 'Zoning, UGBs, and Caps': 'projects/zoning_pba40.md'
-    - 'Development Projects' : 'projects/devproj_pba40.md'
-    - 'Secondary Units': 'projects/secondunits_pba40.md'
-    - 'Subsidies, Fees, and Other Account Policies': 'projects/accounts_pba40.md'
+    - 'Plan Bay Area 2040': 'pba40/pba40.md'
+    - 'Draft Scenario Definition': 'pba40/scenarios_def_pba2040.md'
+    - 'Zoning, UGBs, and Caps': 'pba40/zoning_pba40.md'
+    - 'Development Projects' : 'pba40/devproj_pba40.md'
+    - 'Secondary Units': 'pba40/secondunits_pba40.md'
+    - 'Subsidies, Fees, and Other Account Policies': 'pba40/accounts_pba40.md'
 - Development: development.md
 - Input Data Preparation:
     - 'Base Year Geodatabase': 'inputprep/baseyeargdb.md'
