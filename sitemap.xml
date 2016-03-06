@@ -47,14 +47,18 @@
      <changefreq>daily</changefreq>
     </url>
         
-    
-
-    
     <url>
-     <loc>None/development/</loc>
+     <loc>None/pba40/modeloutput_pba40/</loc>
      <lastmod>2016-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>None/pba40/perftargets_pba40/</loc>
+     <lastmod>2016-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
@@ -116,6 +120,14 @@
     
     <url>
      <loc>None/datarepository/</loc>
+     <lastmod>2016-03-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/development/</loc>
      <lastmod>2016-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
