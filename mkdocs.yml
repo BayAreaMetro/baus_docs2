@@ -2,13 +2,14 @@ site_name: Bay Area UrbanSim Documentation
 pages:
 - Home: index.md
 - Plan Bay Area 2040: 
-    - 'Plan Bay Area 2040': 'pba40/pba40.md'
+    - 'Plan Bay Area 2040 Overview': 'pba40/pba40.md'
     - 'Draft Scenario Definition': 'pba40/scenarios_def_pba40.md'
     - 'Zoning, UGBs, and Caps': 'pba40/zoning_pba40.md'
     - 'Development Projects' : 'pba40/devproj_pba40.md'
     - 'Secondary Units': 'pba40/secondunits_pba40.md'
-    - 'Subsidies, Fees, and Other Account Policies': 'pba40/accounts_pba40.md'
-- Development: development.md
+    - 'Subsidies, Fees, and Other Policies Represented by Accounts': 'pba40/accounts_pba40.md'
+    = 'Model Output': 'modeloutput_pba40.md'
+    - 'Performance Targets': 'perftargets_pba40.md'
 - Input Data Preparation:
     - 'Base Year Geodatabase': 'inputprep/baseyeargdb.md'
     - 'Base Year Zoning': 'inputprep/baseyearzoning.md'
@@ -20,4 +21,5 @@ pages:
     - 'Output Files': 'usersguide/output.md'
     - 'Model Schematic': 'usersguide/schematic.md'
 - Data Repository: datarepository.md
+- Model Development: development.md
 theme: readthedocs
