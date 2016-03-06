@@ -8,8 +8,8 @@ pages:
     - 'Development Projects' : 'pba40/devproj_pba40.md'
     - 'Secondary Units': 'pba40/secondunits_pba40.md'
     - 'Subsidies, Fees, and Other Policies Represented by Accounts': 'pba40/accounts_pba40.md'
-    - 'Model Output': 'modeloutput_pba40.md'
-    - 'Performance Targets': 'perftargets_pba40.md'
+    - 'Model Output': 'pba40/modeloutput_pba40.md'
+    - 'Performance Targets': 'pba40/perftargets_pba40.md'
 - Input Data Preparation:
     - 'Base Year Geodatabase': 'inputprep/baseyeargdb.md'
     - 'Base Year Zoning': 'inputprep/baseyearzoning.md'
