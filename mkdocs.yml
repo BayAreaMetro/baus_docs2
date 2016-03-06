@@ -4,6 +4,10 @@ pages:
 - Projects: 
     - 'Plan Bay Area 2040': 'projects/pba40.md'
     - 'Draft Scenario Definition': 'projects/scenarios_def_pba2040.md'
+    - 'Zoning, UGBs, and Caps': 'projects/zoning_pba40.md'
+    - 'Development Projects' : 'projects/devproj_pba40.md'
+    - 'Secondary Units': 'secondunits_pba40.md'
+    - 'Subsidies, Fees, and Other Account Policies': 'accounts_pba40.md'
 - Development: development.md
 - Input Data Preparation:
     - 'Base Year Geodatabase': 'inputprep/baseyeargdb.md'
