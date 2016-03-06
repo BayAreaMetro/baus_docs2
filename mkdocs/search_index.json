@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/pba40/scenarios_def_pba40/", 
-            "text": "PBA40 Draft Scenario Definition\n\n\nConcise Scenario Comparion\n\n\n\n\n\n\n\n\nS\n\n\n0\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\n\n\n\n\n\n\nZoning\n\n\nexisting\n\n\nupzone select PDAs\n\n\nupzone PDAs to placetype\n\n\nupzone TPAs in Big3/core\n\n\n\n\n\n\nUGB\n\n\nexpand by 389 sq mi\n\n\nexpand by 565 sq mi\n\n\nexisting UGBs/city limits add 68 sq mi\n\n\ncity boundaries\n\n\n\n\n\n\nCaps\n\n\nexisting\n\n\nexisting\n\n\nraises SF OF cap to 1.5m\n\n\ndrops SF OF cap\n\n\n\n\n\n\nDevProj\n\n\nwhere scen0=1\n\n\nwhere scen1=1\n\n\nwhere scen2=1\n\n\nwhere scen3=1\n\n\n\n\n\n\nSec Units\n\n\nexisting\n\n\neverywhere\n\n\npdas\n\n\nin big 3\n\n\n\n\n\n\nSubFee\n\n\nsb743\n\n\nobag tiering sb743\n\n\nobag tiering sb743\n\n\nobag tiering sb743\n\n\n\n\n\n\nVMT Fee\n\n\nnone\n\n\ncomm\n\n\ncomm to pda\n\n\nres to tpa\n\n\n\n\n\n\nPkg Mins\n\n\nexisting\n\n\ndecreased in pdas along rail\n\n\ndecreased in core pdas\n\n\ndecreased in big 3 and neighbors\n\n\n\n\n\n\nTax\n\n\n\n\nhousing capgains\n\n\n\n\nland value tax in big 3 and neighbors\n\n\n\n\n\n\nNet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScenario 0 (the No Project)\n\n\nScenario 1\n\n\nScenario 2\n\n\nScenario 3", 
+            "text": "PBA40 Draft Scenario Definition\n\n\nConcise Scenario Comparion\n\n\n\n\n\n\n\n\nS\n\n\n0\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\n\n\n\n\n\n\nZoning\n\n\nexisting\n\n\nupzone select PDAs\n\n\nupzone PDAs to placetype\n\n\nupzone TPAs in Big3/core\n\n\n\n\n\n\nUGB\n\n\nexpand by 389 sq mi\n\n\nexpand by 565 sq mi\n\n\nexisting UGBs/city limits add 68 sq mi\n\n\ncity boundaries\n\n\n\n\n\n\nCaps\n\n\nexisting\n\n\nexisting\n\n\nraises SF OF cap to 1.5m\n\n\ndrops SF OF cap\n\n\n\n\n\n\nDevProj\n\n\nwhere scen0=1\n\n\nwhere scen1=1\n\n\nwhere scen2=1\n\n\nwhere scen3=1\n\n\n\n\n\n\nSec Units\n\n\nexisting\n\n\neverywhere\n\n\npdas\n\n\nin big 3\n\n\n\n\n\n\nSubFee\n\n\nsb743\n\n\nredev obag tiering sb743\n\n\ninclusionary obag tiering sb743\n\n\nobag tiering sb743\n\n\n\n\n\n\nVMT Fee\n\n\nnone\n\n\ncomm\n\n\ncomm to pda\n\n\nres to tpa\n\n\n\n\n\n\nPkg Mins\n\n\nexisting\n\n\ndecreased in pdas along rail\n\n\ndecreased in core pdas\n\n\ndecreased in big 3 and neighbors\n\n\n\n\n\n\nTax\n\n\n\n\nhousing capgains\n\n\n\n\nland value tax in big 3 and neighbors\n\n\n\n\n\n\nNet\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScenario 0 (the No Project)\n\n\n\n\nzoning_mods_np\n expands suburban area by 389 sq miles (ubz, ubz_np, exp0, exp0_np, exp1, exp1_np, and exp2_np are upzoned)\n\n\nkeeps existing 2010 jurisdictional development caps\n\n\nsecond units allowed in jurisdictions that allow in 2010\n\n\nresidential parking minimums as in 2010\n\n\nSB743: To represent the EIR move from LOS to VMT, we want to do a slight \"subsidy\" in efficient VMT locations and a slight penalty in inefficient ones. Can we do %? Or we could translate into something like the VMT fee with absolute amounts. If % possible try as in SB743 Profitability Modification Table below\n\n\nbuilds projects where np=1 in \nDevelopment Projects\n. These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015\n\n\ncommitted transportation network/policies\n\n\n\n\nScenario 1\n\n\n\n\nzoning_mods_au\n upzones select suburban centers (res and com) and expands UGBs \"faster than expected compared to past trends\" so expands suburban area by 565 sq miles  (ubz, exp0, exp1, exp3_au, and expmaz(79sqmi) are upzoned)\n\n\nkeeps existing 2010 jurisdictional development caps\n\n\nsecond units allowed in all jurisdictions\n\n\nresidential parking minimums decreased in PDAs along rail\n\n\nSB743 as in NP\n\n\nOBAG as in TH\n\n\nredev in jurisdictions with at least one PDA: Within each jurisdiction, 1% of the increase in value of all market-rate buildings is available to subsidize low-income housing construction within that jurisdiction's TPAs. (This is a redirection of taxation so ideally it wouldn't be a fee so it wouldn't slow constructon.)\n\n\ntake out fiscalization?\n\n\nvmt_fee_com assesses fees on office and retail construction in zones where employees have high average commute lengths. Zones are classified according to the variable nonres_cat in \nvmt_fee_zonecats.csv\n. Fee and subsidies by zone category are in VMT Fees by Zone Category Table below.\n\n\nbuilds projects where au=1 in \nDevelopment Projects\n. These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015\n\n\nscenario 1 network/policies\n\n\n\n\nScenario 2\n\n\n\n\nzoning_mods_pr\n upzones PDAs to match their place type and assumes 2010 UGBs hold (maybe: existing true UGB/ULL and city boundaries where no limit) (ubz only) so 68 additional sq miles\n\n\nkeeps existing 2010 jurisdictional development caps except raises SF office cap to 1.5m annually\n\n\nsecond units along all jurisdictions along El Camino Real and East Bay Corridors\n\n\nresidential parking minimums decreased in PDAs that have high levels of transit access along El Camino Real and East Bay Corridors\n\n\nSB743 as in NP\n\n\nOBAG as in TH\n\n\ninclusionary housing policy in jurisdictions with at least one PDA that taxes new housing construction to subsidize affordable housing construction within that jurisdiction. Within each jurisdiction that has one or more PDAs, 10% of the construction cost for market-rate housing built between 2010 and 2040 is assessed as a fee against the new construction and put into an account that is available to subsidize the construction of low-income housing units within any PDA in that jurisdiction. (This is a fee so ideally it would slow construction by making it less profitable.)\n\n\nno vmt fee\n\n\nadditional adjustments from VisionSolver?\n\n\nbuilds projects where pr=1 in \nDevelopment Projects\n. These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015 \n\n\nscenario 2 network/policies\n\n\n\n\nScenario 3\n\n\n\n\nzoning_mods_th\n upzones areas with high transit access (with an emphasis on the Big 3 and their neighbors) and tightens UGBs to city boundaries\n\n\nkeeps existing 2010 jurisdictional development caps except drops SF office cap\n\n\nsecond units allowed in Big 3 cities\n\n\nresidential parking minimums decreased in Big 3 cities and neighboring high transit cities \n\n\nSB743 as in NP\n\n\nOBAG: In 2010 one account is set up for the entire region. Each year $200m is added to the account. In a given year, whatever is in the account is available to subsidize housing construction within any PDA in the region.\n\n\ntax policy: land value tax in Big 3\n\n\nvmt_fee_res assesses fees on residential construction in zones with households with high average commute lengths. Zones are classified according to the variable res_cat in \nvmt_fee_zonecats.csv\n. Fee and subsidies by zone category are in VMT Fees by Zone Category Table below.\n\n\nbuilds projects where th=1 in \nDevelopment Projects\n. These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015, and 3) very large mixed-use projects that have been designed and assessed for feasibility using spreadsheet pro formas \n\n\nscenario 3 network/policies", 
             "title": "Draft Scenario Definition"
         }, 
         {
@@ -32,27 +32,27 @@
         }, 
         {
             "location": "/pba40/scenarios_def_pba40/#concise-scenario-comparion", 
-            "text": "S  0  1  2  3      Zoning  existing  upzone select PDAs  upzone PDAs to placetype  upzone TPAs in Big3/core    UGB  expand by 389 sq mi  expand by 565 sq mi  existing UGBs/city limits add 68 sq mi  city boundaries    Caps  existing  existing  raises SF OF cap to 1.5m  drops SF OF cap    DevProj  where scen0=1  where scen1=1  where scen2=1  where scen3=1    Sec Units  existing  everywhere  pdas  in big 3    SubFee  sb743  obag tiering sb743  obag tiering sb743  obag tiering sb743    VMT Fee  none  comm  comm to pda  res to tpa    Pkg Mins  existing  decreased in pdas along rail  decreased in core pdas  decreased in big 3 and neighbors    Tax   housing capgains   land value tax in big 3 and neighbors    Net", 
+            "text": "S  0  1  2  3      Zoning  existing  upzone select PDAs  upzone PDAs to placetype  upzone TPAs in Big3/core    UGB  expand by 389 sq mi  expand by 565 sq mi  existing UGBs/city limits add 68 sq mi  city boundaries    Caps  existing  existing  raises SF OF cap to 1.5m  drops SF OF cap    DevProj  where scen0=1  where scen1=1  where scen2=1  where scen3=1    Sec Units  existing  everywhere  pdas  in big 3    SubFee  sb743  redev obag tiering sb743  inclusionary obag tiering sb743  obag tiering sb743    VMT Fee  none  comm  comm to pda  res to tpa    Pkg Mins  existing  decreased in pdas along rail  decreased in core pdas  decreased in big 3 and neighbors    Tax   housing capgains   land value tax in big 3 and neighbors    Net", 
             "title": "Concise Scenario Comparion"
         }, 
         {
             "location": "/pba40/scenarios_def_pba40/#scenario-0-the-no-project", 
-            "text": "", 
+            "text": "zoning_mods_np  expands suburban area by 389 sq miles (ubz, ubz_np, exp0, exp0_np, exp1, exp1_np, and exp2_np are upzoned)  keeps existing 2010 jurisdictional development caps  second units allowed in jurisdictions that allow in 2010  residential parking minimums as in 2010  SB743: To represent the EIR move from LOS to VMT, we want to do a slight \"subsidy\" in efficient VMT locations and a slight penalty in inefficient ones. Can we do %? Or we could translate into something like the VMT fee with absolute amounts. If % possible try as in SB743 Profitability Modification Table below  builds projects where np=1 in  Development Projects . These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015  committed transportation network/policies", 
             "title": "Scenario 0 (the No Project)"
         }, 
         {
             "location": "/pba40/scenarios_def_pba40/#scenario-1", 
-            "text": "", 
+            "text": "zoning_mods_au  upzones select suburban centers (res and com) and expands UGBs \"faster than expected compared to past trends\" so expands suburban area by 565 sq miles  (ubz, exp0, exp1, exp3_au, and expmaz(79sqmi) are upzoned)  keeps existing 2010 jurisdictional development caps  second units allowed in all jurisdictions  residential parking minimums decreased in PDAs along rail  SB743 as in NP  OBAG as in TH  redev in jurisdictions with at least one PDA: Within each jurisdiction, 1% of the increase in value of all market-rate buildings is available to subsidize low-income housing construction within that jurisdiction's TPAs. (This is a redirection of taxation so ideally it wouldn't be a fee so it wouldn't slow constructon.)  take out fiscalization?  vmt_fee_com assesses fees on office and retail construction in zones where employees have high average commute lengths. Zones are classified according to the variable nonres_cat in  vmt_fee_zonecats.csv . Fee and subsidies by zone category are in VMT Fees by Zone Category Table below.  builds projects where au=1 in  Development Projects . These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015  scenario 1 network/policies", 
             "title": "Scenario 1"
         }, 
         {
             "location": "/pba40/scenarios_def_pba40/#scenario-2", 
-            "text": "", 
+            "text": "zoning_mods_pr  upzones PDAs to match their place type and assumes 2010 UGBs hold (maybe: existing true UGB/ULL and city boundaries where no limit) (ubz only) so 68 additional sq miles  keeps existing 2010 jurisdictional development caps except raises SF office cap to 1.5m annually  second units along all jurisdictions along El Camino Real and East Bay Corridors  residential parking minimums decreased in PDAs that have high levels of transit access along El Camino Real and East Bay Corridors  SB743 as in NP  OBAG as in TH  inclusionary housing policy in jurisdictions with at least one PDA that taxes new housing construction to subsidize affordable housing construction within that jurisdiction. Within each jurisdiction that has one or more PDAs, 10% of the construction cost for market-rate housing built between 2010 and 2040 is assessed as a fee against the new construction and put into an account that is available to subsidize the construction of low-income housing units within any PDA in that jurisdiction. (This is a fee so ideally it would slow construction by making it less profitable.)  no vmt fee  additional adjustments from VisionSolver?  builds projects where pr=1 in  Development Projects . These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015   scenario 2 network/policies", 
             "title": "Scenario 2"
         }, 
         {
             "location": "/pba40/scenarios_def_pba40/#scenario-3", 
-            "text": "", 
+            "text": "zoning_mods_th  upzones areas with high transit access (with an emphasis on the Big 3 and their neighbors) and tightens UGBs to city boundaries  keeps existing 2010 jurisdictional development caps except drops SF office cap  second units allowed in Big 3 cities  residential parking minimums decreased in Big 3 cities and neighboring high transit cities   SB743 as in NP  OBAG: In 2010 one account is set up for the entire region. Each year $200m is added to the account. In a given year, whatever is in the account is available to subsidize housing construction within any PDA in the region.  tax policy: land value tax in Big 3  vmt_fee_res assesses fees on residential construction in zones with households with high average commute lengths. Zones are classified according to the variable res_cat in  vmt_fee_zonecats.csv . Fee and subsidies by zone category are in VMT Fees by Zone Category Table below.  builds projects where th=1 in  Development Projects . These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015, and 3) very large mixed-use projects that have been designed and assessed for feasibility using spreadsheet pro formas   scenario 3 network/policies", 
             "title": "Scenario 3"
         }, 
         {
@@ -87,13 +87,23 @@
         }, 
         {
             "location": "/pba40/accounts_pba40/", 
-            "text": "Subsidies, Fees, and Other Policies Represented by Accounts\n\n\nttttt", 
+            "text": "Subsidies, Fees, and Other Policies Represented by Accounts\n\n\nSB743 Profitability Modification Table\n\n\n\n\n\n\n\n\nvmt_cat (res or non_res)\n\n\nprofitability shift\n\n\n\n\n\n\n\n\n\n\nVH\n\n\n-2%\n\n\n\n\n\n\nH\n\n\n-1%\n\n\n\n\n\n\nMH\n\n\n-0.5%\n\n\n\n\n\n\nM\n\n\n0\n\n\n\n\n\n\nS\n\n\n+2%\n\n\n\n\n\n\n\n\nVMT Fees by Zone Category Table\n\n\n\n\n\n\n\n\nCategory\n\n\nResidential VMT Fee Action\n\n\nCommercial VMT Fee Action\n\n\n\n\n\n\n\n\n\n\nVH\n\n\nassess res dev fee $25,000 per HU\n\n\nassess com dev fee $20 per OF/RS sqft\n\n\n\n\n\n\nH\n\n\nassess res dev fee $15,000 per HU\n\n\nassess com dev fee $10 per OF/RS sqft\n\n\n\n\n\n\nMH\n\n\nassess res dev fee $5,000 per HU\n\n\nassess com dev fee $6 per OF/RS sqft\n\n\n\n\n\n\nM\n\n\nnothing\n\n\nnothing\n\n\n\n\n\n\nS\n\n\nmoney available to subsidize units\n\n\nmoney available to subsidize OF/RS", 
             "title": "Subsidies, Fees, and Other Policies Represented by Accounts"
         }, 
         {
             "location": "/pba40/accounts_pba40/#subsidies-fees-and-other-policies-represented-by-accounts", 
-            "text": "ttttt", 
+            "text": "", 
             "title": "Subsidies, Fees, and Other Policies Represented by Accounts"
+        }, 
+        {
+            "location": "/pba40/accounts_pba40/#sb743-profitability-modification-table", 
+            "text": "vmt_cat (res or non_res)  profitability shift      VH  -2%    H  -1%    MH  -0.5%    M  0    S  +2%", 
+            "title": "SB743 Profitability Modification Table"
+        }, 
+        {
+            "location": "/pba40/accounts_pba40/#vmt-fees-by-zone-category-table", 
+            "text": "Category  Residential VMT Fee Action  Commercial VMT Fee Action      VH  assess res dev fee $25,000 per HU  assess com dev fee $20 per OF/RS sqft    H  assess res dev fee $15,000 per HU  assess com dev fee $10 per OF/RS sqft    MH  assess res dev fee $5,000 per HU  assess com dev fee $6 per OF/RS sqft    M  nothing  nothing    S  money available to subsidize units  money available to subsidize OF/RS", 
+            "title": "VMT Fees by Zone Category Table"
         }, 
         {
             "location": "/pba40/modeloutput_pba40/", 
@@ -107,13 +117,33 @@
         }, 
         {
             "location": "/pba40/perftargets_pba40/", 
-            "text": "Peformance Targets\n\n\ntttttf", 
+            "text": "Peformance Targets\n\n\n4) Direct all non-agricultural development within the urban footprint (existing urban development and UGBs)\n\n\n5) Decrease the share of lower-income residents\u2019 household income consumed by transportation and housing by 10%\n\n\n6) Increase the share of affordable housing in PDAs, TPAs, or high-opportunity areas by 15%\n\n\n7) Do not increase the share of low- and moderate-income renter households in PDAs, TPAs, or high-opportunity areas that are at risk of displacement", 
             "title": "Performance Targets"
         }, 
         {
             "location": "/pba40/perftargets_pba40/#peformance-targets", 
-            "text": "tttttf", 
+            "text": "", 
             "title": "Peformance Targets"
+        }, 
+        {
+            "location": "/pba40/perftargets_pba40/#4-direct-all-non-agricultural-development-within-the-urban-footprint-existing-urban-development-and-ugbs", 
+            "text": "", 
+            "title": "4) Direct all non-agricultural development within the urban footprint (existing urban development and UGBs)"
+        }, 
+        {
+            "location": "/pba40/perftargets_pba40/#5-decrease-the-share-of-lower-income-residents-household-income-consumed-by-transportation-and-housing-by-10", 
+            "text": "", 
+            "title": "5) Decrease the share of lower-income residents\u2019 household income consumed by transportation and housing by 10%"
+        }, 
+        {
+            "location": "/pba40/perftargets_pba40/#6-increase-the-share-of-affordable-housing-in-pdas-tpas-or-high-opportunity-areas-by-15", 
+            "text": "", 
+            "title": "6) Increase the share of affordable housing in PDAs, TPAs, or high-opportunity areas by 15%"
+        }, 
+        {
+            "location": "/pba40/perftargets_pba40/#7-do-not-increase-the-share-of-low-and-moderate-income-renter-households-in-pdas-tpas-or-high-opportunity-areas-that-are-at-risk-of-displacement", 
+            "text": "", 
+            "title": "7) Do not increase the share of low- and moderate-income renter households in PDAs, TPAs, or high-opportunity areas that are at risk of displacement"
         }, 
         {
             "location": "/inputprep/baseyeargdb/", 
@@ -272,12 +302,12 @@
         }, 
         {
             "location": "/development/", 
-            "text": "Projects\n\n\ntttt", 
+            "text": "Projects\n\n\n\n\nSecond Units model\n\n\nPopulation-driven model for gov, schools, and maybe some retail\n\n\nMemo on multi-parcel redevelopment\n\n\nUpdate zoning including: San Francisco, Clayton(matt kelly uploaded this data to box, so we should probably take a look at it?) , Gilroy(rcvd 29 attachments via saved email on oc 16th, 2015); check Pacifica open space zoning(for eg parcel_id 1063147 but there's a lot questionable)\n\n\nTreatment of deed-restricted units (and initial database)\n\n\nModel and data public status\n\n\nRefine spandex dev_type assignments\n\n\nAssess overall subsidies, OBAG, cap and trade, LOS-\nVMT\n\n\nAdditional feasibility realism: slope, mood, fees\n\n\nGet cube network's into pandana to get transit variables into urbansim\n\n\nSpandex redo: no sql, no postgres, no db", 
             "title": "Model Development"
         }, 
         {
             "location": "/development/#projects", 
-            "text": "tttt", 
+            "text": "Second Units model  Population-driven model for gov, schools, and maybe some retail  Memo on multi-parcel redevelopment  Update zoning including: San Francisco, Clayton(matt kelly uploaded this data to box, so we should probably take a look at it?) , Gilroy(rcvd 29 attachments via saved email on oc 16th, 2015); check Pacifica open space zoning(for eg parcel_id 1063147 but there's a lot questionable)  Treatment of deed-restricted units (and initial database)  Model and data public status  Refine spandex dev_type assignments  Assess overall subsidies, OBAG, cap and trade, LOS- VMT  Additional feasibility realism: slope, mood, fees  Get cube network's into pandana to get transit variables into urbansim  Spandex redo: no sql, no postgres, no db", 
             "title": "Projects"
         }
     ]
