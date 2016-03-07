@@ -30,7 +30,11 @@ Tags parcels with TAZ (zone) ID using [point-in-poly](https://github.com/Metropo
 
 ### Impute Prices
 
-### Allocate Demand Agents to Buuldings
+### [Allocate Demand Agents to Buuldings](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/match_aggregate.py)
+
+TAZ as local control for both res and comm
+
+
 
 ### Perform Quality Control Summaries
 
