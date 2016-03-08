@@ -8,11 +8,11 @@
 **UGB** | expand by 389 sq mi | expand by 565 sq mi | existing UGBs/city limits add 68 sq mi | city boundaries 
 **Caps** | existing | existing | raises SF OF cap to 1.5m | drops SF OF cap 
 **DevProj** | where scen0=1 | where scen1=1 | where scen2=1 | where scen3=1                         
-**Sec Units** | existing | everywhere | pdas | in big 3
-**SubFee** | sb743 | redev obag tiering sb743 | inclusionary obag tiering sb743 | obag tiering sb743 
-**VMT Fee** | none | comm | comm | res to tpa
-**Pkg Mins** | existing | decreased in pdas along rail | decreased in core pdas | decreased in big 3 and neighbors
-**Tax** |  | parceltax hu_capgains | | land value tax in big 3 and neighbors                         
+**Sec Units** | *existing* | *everywhere* | *pdas* | *in big 3*
+**SubFee** | sb743 | *parceltax* *hu_capgains* obag *tiering* sb743 | *inclusionary* obag *tiering* sb743 | obag *tiering* sb743 
+**VMT Fee** | none | com | *com* | res
+**Pkg Mins** | existing | *decreased in pdas along rail* | *decreased in core pdas* | *decreased in big 3 and neighbors*
+**Tax** |  |  | | *land value tax in big 3 and neighbors*                         
 **Net** |                           |                           |                           |                         
                          
                          
