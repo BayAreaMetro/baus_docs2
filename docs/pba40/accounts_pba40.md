@@ -54,4 +54,8 @@ The fees below are assessed on development in zones with higher VMT (home-end of
 | M       | nothing                             | nothing                              |
 | S       | money available to subsidize units  | money available to subsidize res units|
  
+ 
+## Land Value Tax
+(Modification)
+In the Big 3 cities, represent approximate impacts of switching from the current property tax system to one which achieves the same income but only from taxing the value of the land value (and not the structure value). Could we approach this: every so many more percent lower the improvement-to-land ratio is, profitability on a new structure rises 1%? 
 
