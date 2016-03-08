@@ -63,7 +63,7 @@ Assume an acre of land is worth $33.3m in SF, $7.8m in San Jose, and $5.4m in Oa
 
 | ILR     | Residential Profitability Change    |Commercial Profitablity Change        |
 |---------|-------------------------------------|--------------------------------------|
-| lt0.5    | no change                           | no change                            |
+| > 0.5    | no change                           | no change                            |
 | 0.5-0.3 | 1%                                  | 1%                                   |
 | 0.3-0.1 | 2%                                  | 2%                                   |
-| gt0.1    | 5%                                  | 5%                                   |
+| < 0.1    | 5%                                  | 5%                                   |
