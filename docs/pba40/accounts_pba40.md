@@ -1,5 +1,7 @@
-# Subsidies, Fees, and Other Policies Represented by Accounts
+# Subsidies, Fees, and Other Policies Represented by Accounts/Profit Modification
 
+## SB73
+(Modification)
 
 ### SB743 Profitability Modification Table
 | vmt_cat (res or non_res) | profitability shift |
@@ -10,6 +12,33 @@
 | M                        | 0                   |
 | S                        | +2%                 |
 
+
+## OBAG 
+(Account)
+
+
+## CEQA Tiering 
+(Modification)
+
+
+## Parcel Tax
+(Account)
+
+
+## Housing Capital Gains Tax
+(Account)
+
+
+## No Parking Minimums  
+(Modification)
+
+
+## Inclusionary Zoning
+(Account)
+
+
+## VMT Fees
+(Account)
 
 ### VMT Fees by Zone Category Table
 
