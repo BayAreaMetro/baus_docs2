@@ -26,13 +26,19 @@ The steps below follow the code residing [here](https://github.com/MetropolitanT
 Tags parcels with TAZ (zone) ID using [point-in-poly](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/spatialops.py#L10) or [closest](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/spatialops.py#L14) when parcel falls outside the TAZ map.
 
 
-### Match Aggregate
+### [Match Aggregate]((https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/match_aggregate.py))
+
+TAZ as local control for both res and comm
+
+
+
 
 ### Impute Prices
 
-### [Allocate Demand Agents to Buuldings](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/match_aggregate.py)
+### [Allocate Demand Agents to Buuldings](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data_regeneration/demand_agent_allocation.py)
 
-TAZ as local control for both res and comm
+allocate jobs from TAZ to building
+
 
 
 
