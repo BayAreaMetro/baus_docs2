@@ -10,12 +10,14 @@
 **DevProj** | where scen0=1 | where scen1=1 | where scen2=1 | where scen3=1                         
 **Sec Units** | *existing* | *everywhere* | *pdas* | *in big 3*
 **SubFee** | sb743 | *parceltax* *hu_capgains* obag *tiering* sb743 | *inclusionary* obag *tiering* sb743 | obag *tiering* sb743 
-**VMT Fee** | none | com | *com* | res
+**VMT Fee** | none | com | *com* | [res](accounts_pba40.md#VMT Fees)
 **Pkg Mins** | existing | *decreased in pdas along rail* | *decreased in core pdas* | *decreased in big 3 and neighbors*
 **Tax** |  |  | | *land value tax in big 3 and neighbors*                         
 **Net** |                           |                           |                           |                         
                          
                          
+
+## IF CONFLICT TABLE ABOVE IS MORE UP TO DATE
 
 ## Scenario 0 (the No Project)
 
