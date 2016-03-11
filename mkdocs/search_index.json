@@ -92,7 +92,7 @@
         }, 
         {
             "location": "/pba40/accounts_pba40/", 
-            "text": "Subsidies, Fees, and Other Policies Represented by Accounts/Profit Modification\n\n\nSB743\n\n\n(Modification)\n\n\nSB743 Profitability Modification Table\n\n\n\n\n\n\n\n\nvmt_cat (res or non_res)\n\n\nprofitability shift\n\n\n\n\n\n\n\n\n\n\nVH\n\n\n-2%\n\n\n\n\n\n\nH\n\n\n-1%\n\n\n\n\n\n\nMH\n\n\n-0.5%\n\n\n\n\n\n\nM\n\n\n0\n\n\n\n\n\n\nS\n\n\n+2%\n\n\n\n\n\n\n\n\nOBAG\n\n\n(Account)\n\n\nCEQA Tiering\n\n\n(Modification)\nMake any sort of development in a TPA 1% more profitable\n\n\nParcel Tax\n\n\n(Account)\n$24 annual parcel tax throughout region into fund for affordable housing\nso $42,000,000 is placed in an account annually to be spent on affordable housing in any TPA in the region \n\n\nHousing Capital Gains Tax\n\n\n(Account, Deed-Restricted)\n$500,000,000 is placed in an account annually to be spent on affordable hosuing in any TPA in the region\n\n\nNo Parking Minimums\n\n\n(Modification)\n\n\nInclusionary Zoning\n\n\n(Account)\n\n\nVMT Fees\n\n\n(Account, Deed-Restricted)\n\n\nThe fees below are assessed on development in zones with higher VMT (home-end of commute for res; work-end of commmute for commercial. Res assessed on any type of residential development; commercial only for office and retail. Money available regionally to subsidize housing construction in Zone S. Susidized units are deed-restricted.\n\n\nVMT Fees by Zone Category Table\n\n\n\n\n\n\n\n\nCategory\n\n\nResidential VMT Fee Action\n\n\nCommercial VMT Fee Action\n\n\n\n\n\n\n\n\n\n\nVH\n\n\nassess res dev fee $25,000 per HU\n\n\nassess com dev fee $20 per OF/RS sqft\n\n\n\n\n\n\nH\n\n\nassess res dev fee $15,000 per HU\n\n\nassess com dev fee $10 per OF/RS sqft\n\n\n\n\n\n\nMH\n\n\nassess res dev fee $5,000 per HU\n\n\nassess com dev fee $6 per OF/RS sqft\n\n\n\n\n\n\nM\n\n\nnothing\n\n\nnothing\n\n\n\n\n\n\nS\n\n\nmoney available to subsidize units\n\n\nmoney available to subsidize res units\n\n\n\n\n\n\n\n\nLand Value Tax\n\n\n(Modification)\nIn the Big 3 cities, represent approximate impacts of switching from the current property tax system to one which achieves the same income but only from taxing the value of the land value (and not the structure value). Could we approach this: every so many more percent lower the improvement-to-land ratio is, profitability on a new structure rises 1%? \n\n\nAssume an acre of land is worth $33.3m in SF, $7.8m in San Jose, and $5.4m in Oakland. Only apply to land zoned for HM:\n\n\n\n\n\n\n\n\nILR\n\n\nResidential Profitability Change\n\n\nCommercial Profitablity Change\n\n\n\n\n\n\n\n\n\n\n 0.5\n\n\nno change\n\n\nno change\n\n\n\n\n\n\n0.5-0.3\n\n\n1%\n\n\n1%\n\n\n\n\n\n\n0.3-0.1\n\n\n2%\n\n\n2%\n\n\n\n\n\n\n 0.1\n\n\n5%\n\n\n5%", 
+            "text": "Subsidies, Fees, and Other Policies Represented by Accounts/Profit Modification\n\n\nSB743\n\n\n(Modification, Applied regionwide by TAZ) This refelcts the expected shift in CEQA transporation analysis requirements from emphasising LOS to emphasizing VMT. Project profitabilility shifts as in the table below.\n\n\nSB743 Profitability Modification Table\n\n\n\n\n\n\n\n\nvmt_cat (res or non_res)\n\n\nprofitability shift\n\n\n\n\n\n\n\n\n\n\nVH\n\n\n-2%\n\n\n\n\n\n\nH\n\n\n-1%\n\n\n\n\n\n\nMH\n\n\n-0.5%\n\n\n\n\n\n\nM\n\n\n0\n\n\n\n\n\n\nS\n\n\n+2%\n\n\n\n\n\n\n\n\nOBAG\n\n\n(Account, Applied to all PDAs) $160 million per year is spent on projects within the PDAs. Although this funds planning and infrastructure projects, we treat it here as a direct subsidy as if the developer received an equivalent amount of money to build a project.\n\n\nCEQA Tiering\n\n\n(Modification, Applied to all TPAs)\nMake any sort of development in a TPA 1% more profitable\n\n\nParcel Tax\n\n\n(Account, Applied to all PDAs, Deed-Restricted)\n$24 annual parcel tax throughout region into fund for affordable housing\nso $42,000,000 is placed in an account annually to be spent on affordable housing in any PDA in the region \n\n\nHousing Capital Gains Tax\n\n\n(Account, Applied to all PDAs, Deed-Restricted)\n$500,000,000 is placed in an account annually to be spent on affordable hosuing in any PDA in the region\n\n\nNo Parking Minimums\n\n\n(Modification, Applied to PDAs in 1 and 2, TPAs in 3)\nMake projects 1% more profitable in zone above. (Or is there a better proxy from the parking work? or other research?)\n\n\nInclusionary Zoning\n\n\n(Account, Applied to all PDAs, Deed-Restricted)\nAs speced out in the code.\n\n\nVMT Fees\n\n\n(Account, Applied regionally by TAZ, Deed-Restricted)\n\n\nThe fees in the table below are assessed on development in zones with higher VMT (home-end of commute for res; work-end of commmute for commercial. Res assessed on any type of residential development; commercial only for office and retail. Money available regionally to subsidize housing construction in Zone S. Susidized units are deed-restricted.\n\n\nVMT Fees by Zone Category Table\n\n\n\n\n\n\n\n\nCategory\n\n\nResidential VMT Fee Action\n\n\nCommercial VMT Fee Action\n\n\n\n\n\n\n\n\n\n\nVH\n\n\nassess res dev fee $25,000 per HU\n\n\nassess com dev fee $20 per OF/RS sqft\n\n\n\n\n\n\nH\n\n\nassess res dev fee $15,000 per HU\n\n\nassess com dev fee $10 per OF/RS sqft\n\n\n\n\n\n\nMH\n\n\nassess res dev fee $5,000 per HU\n\n\nassess com dev fee $6 per OF/RS sqft\n\n\n\n\n\n\nM\n\n\nnothing\n\n\nnothing\n\n\n\n\n\n\nS\n\n\nmoney available to subsidize units\n\n\nmoney available to subsidize res units\n\n\n\n\n\n\n\n\nLand Value Tax\n\n\n(Modification, Applied to Big 3 cities)\nIn the Big 3 cities, represent approximate impacts of switching from the current property tax system to one which achieves the same income but only from taxing the value of the land value (and not the structure value). Could we approach this: every so many more percent lower the improvement-to-land ratio is, profitability on a new structure rises some percent? For now lets try assuming an acre of land is worth $33.3m in SF, $7.8m in San Jose, and $5.4m in Oakland and apply these changes to land zoned for HM:\n\n\n\n\n\n\n\n\nILR\n\n\nResidential Profitability Change\n\n\nCommercial Profitablity Change\n\n\n\n\n\n\n\n\n\n\n 0.5\n\n\nno change\n\n\nno change\n\n\n\n\n\n\n0.5-0.3\n\n\n1%\n\n\n1%\n\n\n\n\n\n\n0.3-0.1\n\n\n2%\n\n\n2%\n\n\n\n\n\n\n 0.1\n\n\n5%\n\n\n5%", 
             "title": "Subsidies, Fees, and Other Policies Represented by Accounts"
         }, 
         {
@@ -102,7 +102,7 @@
         }, 
         {
             "location": "/pba40/accounts_pba40/#sb743", 
-            "text": "(Modification)", 
+            "text": "(Modification, Applied regionwide by TAZ) This refelcts the expected shift in CEQA transporation analysis requirements from emphasising LOS to emphasizing VMT. Project profitabilility shifts as in the table below.", 
             "title": "SB743"
         }, 
         {
@@ -112,37 +112,37 @@
         }, 
         {
             "location": "/pba40/accounts_pba40/#obag", 
-            "text": "(Account)", 
+            "text": "(Account, Applied to all PDAs) $160 million per year is spent on projects within the PDAs. Although this funds planning and infrastructure projects, we treat it here as a direct subsidy as if the developer received an equivalent amount of money to build a project.", 
             "title": "OBAG"
         }, 
         {
             "location": "/pba40/accounts_pba40/#ceqa-tiering", 
-            "text": "(Modification)\nMake any sort of development in a TPA 1% more profitable", 
+            "text": "(Modification, Applied to all TPAs)\nMake any sort of development in a TPA 1% more profitable", 
             "title": "CEQA Tiering"
         }, 
         {
             "location": "/pba40/accounts_pba40/#parcel-tax", 
-            "text": "(Account)\n$24 annual parcel tax throughout region into fund for affordable housing\nso $42,000,000 is placed in an account annually to be spent on affordable housing in any TPA in the region", 
+            "text": "(Account, Applied to all PDAs, Deed-Restricted)\n$24 annual parcel tax throughout region into fund for affordable housing\nso $42,000,000 is placed in an account annually to be spent on affordable housing in any PDA in the region", 
             "title": "Parcel Tax"
         }, 
         {
             "location": "/pba40/accounts_pba40/#housing-capital-gains-tax", 
-            "text": "(Account, Deed-Restricted)\n$500,000,000 is placed in an account annually to be spent on affordable hosuing in any TPA in the region", 
+            "text": "(Account, Applied to all PDAs, Deed-Restricted)\n$500,000,000 is placed in an account annually to be spent on affordable hosuing in any PDA in the region", 
             "title": "Housing Capital Gains Tax"
         }, 
         {
             "location": "/pba40/accounts_pba40/#no-parking-minimums", 
-            "text": "(Modification)", 
+            "text": "(Modification, Applied to PDAs in 1 and 2, TPAs in 3)\nMake projects 1% more profitable in zone above. (Or is there a better proxy from the parking work? or other research?)", 
             "title": "No Parking Minimums"
         }, 
         {
             "location": "/pba40/accounts_pba40/#inclusionary-zoning", 
-            "text": "(Account)", 
+            "text": "(Account, Applied to all PDAs, Deed-Restricted)\nAs speced out in the code.", 
             "title": "Inclusionary Zoning"
         }, 
         {
             "location": "/pba40/accounts_pba40/#vmt-fees", 
-            "text": "(Account, Deed-Restricted)  The fees below are assessed on development in zones with higher VMT (home-end of commute for res; work-end of commmute for commercial. Res assessed on any type of residential development; commercial only for office and retail. Money available regionally to subsidize housing construction in Zone S. Susidized units are deed-restricted.", 
+            "text": "(Account, Applied regionally by TAZ, Deed-Restricted)  The fees in the table below are assessed on development in zones with higher VMT (home-end of commute for res; work-end of commmute for commercial. Res assessed on any type of residential development; commercial only for office and retail. Money available regionally to subsidize housing construction in Zone S. Susidized units are deed-restricted.", 
             "title": "VMT Fees"
         }, 
         {
@@ -152,7 +152,7 @@
         }, 
         {
             "location": "/pba40/accounts_pba40/#land-value-tax", 
-            "text": "(Modification)\nIn the Big 3 cities, represent approximate impacts of switching from the current property tax system to one which achieves the same income but only from taxing the value of the land value (and not the structure value). Could we approach this: every so many more percent lower the improvement-to-land ratio is, profitability on a new structure rises 1%?   Assume an acre of land is worth $33.3m in SF, $7.8m in San Jose, and $5.4m in Oakland. Only apply to land zoned for HM:     ILR  Residential Profitability Change  Commercial Profitablity Change       0.5  no change  no change    0.5-0.3  1%  1%    0.3-0.1  2%  2%     0.1  5%  5%", 
+            "text": "(Modification, Applied to Big 3 cities)\nIn the Big 3 cities, represent approximate impacts of switching from the current property tax system to one which achieves the same income but only from taxing the value of the land value (and not the structure value). Could we approach this: every so many more percent lower the improvement-to-land ratio is, profitability on a new structure rises some percent? For now lets try assuming an acre of land is worth $33.3m in SF, $7.8m in San Jose, and $5.4m in Oakland and apply these changes to land zoned for HM:     ILR  Residential Profitability Change  Commercial Profitablity Change       0.5  no change  no change    0.5-0.3  1%  1%    0.3-0.1  2%  2%     0.1  5%  5%", 
             "title": "Land Value Tax"
         }, 
         {
