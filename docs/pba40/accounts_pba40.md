@@ -1,7 +1,7 @@
 # Subsidies, Fees, and Other Policies Represented by Accounts/Profit Modification
 
 ## SB743
-(Modification)
+(Modification, Applied regionwide by TAZ)
 
 ### SB743 Profitability Modification Table
 | vmt_cat (res or non_res) | profitability shift |
@@ -14,22 +14,22 @@
 
 
 ## OBAG 
-(Account)
+(Account, Applied to all PDAs)
 
 
 ## CEQA Tiering 
-(Modification)
+(Modification, Applied to all TPAs)
 Make any sort of development in a TPA 1% more profitable
 
 
 ## Parcel Tax
 (Account)
 $24 annual parcel tax throughout region into fund for affordable housing
-so $42,000,000 is placed in an account annually to be spent on affordable housing in any TPA in the region 
+so $42,000,000 is placed in an account annually to be spent on affordable housing in any PDA in the region 
 
 ## Housing Capital Gains Tax
 (Account, Deed-Restricted)
-$500,000,000 is placed in an account annually to be spent on affordable hosuing in any TPA in the region
+$500,000,000 is placed in an account annually to be spent on affordable hosuing in any PDA in the region
 
 ## No Parking Minimums  
 (Modification)
