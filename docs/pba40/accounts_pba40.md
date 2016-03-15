@@ -39,14 +39,96 @@ Make projects 1% more profitable in zone above. (Or is there a better proxy from
 
 ## Inclusionary Zoning Low
 (Account, Applied to all Opportunity Jurisdiction, Deed-Restricted)
-Sets a relatively high level of inclusionary units requried with the proportion required in each jurisdiction listed here:
-###inclusionary_housing_low
-
-| juris         | prop |
-|---------------|------|
-| San Francisco | 0.2  |
-| Oakland       | 0.2  |
-| San Jose      | 0.2  |
+Sets a low level of inclusionary units requried with a proportion required of 0.05 for these jurisdictions: 
+Alameda
+Alameda County
+Albany
+American Canyon
+Antioch
+Atherton
+Belmont
+Benicia
+Berkeley
+Brisbane
+Burlingame
+Campbell
+Cloverdale
+Colma
+Concord
+Contra Costa County
+Cotati
+Cupertino
+Daly City
+Danville
+Dixon
+Dublin
+East Palo Alto
+El Cerrito
+Emeryville
+Fairfield
+Foster City
+Fremont
+Gilroy
+Hayward
+Hercules
+Lafayette
+Lake County
+Livermore
+Los Altos
+Los Altos Hills
+Los Gatos
+Martinez
+Menlo Park
+Millbrae
+Milpitas
+Monte Sereno
+Moraga
+Morgan Hill
+Mountain View
+Napa
+Newark
+Oakland
+Oakley
+Orinda
+Palo Alto
+Petaluma
+Piedmont
+Pinole
+Pittsburg
+Pleasant Hill
+Pleasanton
+Redwood City
+Richmond
+Rohnert Park
+Sacramento County
+San Benito County
+San Bruno
+San Carlos
+San Francisco
+San Francisco County
+San Joaquin County
+San Jose
+San Leandro
+San Mateo
+San Mateo County
+San Pablo
+San Rafael
+San Ramon
+Santa Clara
+Santa Cruz County
+Santa Rosa
+Saratoga
+Sebastopol
+South San Francisco
+Stanislaus County
+Suisun City
+Sunnyvale
+Union City
+Vacaville
+Vallejo
+Walnut Creek
+Windsor
+Yolo County
 
 ## Inclusionary Zoning Medium
 (Account, Applied to Jurisdictions with PDAs, Deed-Restricted)
