@@ -39,12 +39,27 @@ Make projects 1% more profitable in zone above. (Or is there a better proxy from
 
 ## Inclusionary Zoning Low
 (Account, Applied to all Opportunity Jurisdiction, Deed-Restricted)
+Sets a relatively high level of inclusionary units requried with the proportion required in each jurisdiction listed here:
+inclusionary_housing:
+  San Francisco: .2
+  Oakland: .2
+  San Jose: .2
 
 ## Inclusionary Zoning Medium
 (Account, Applied to Jurisdictions with PDAs, Deed-Restricted)
+Sets a relatively high level of inclusionary units requried with the proportion required in each jurisdiction listed here:
+inclusionary_housing:
+  San Francisco: .2
+  Oakland: .2
+  San Jose: .2
 
 ## Inclusionary Zoning High
 (Account, Applied to Big 3 Cities and Neighbors, Deed-Restricted)
+Sets a relatively high level of inclusionary units requried with the proportion required in each jurisdiction listed here:
+inclusionary_housing:
+  San Francisco: .2
+  Oakland: .2
+  San Jose: .2
 
 ## VMT Fees
 (Account, Applied regionally by TAZ, Deed-Restricted)
