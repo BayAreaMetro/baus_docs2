@@ -37,13 +37,13 @@ $500,000,000 is placed in an account annually to be spent on affordable hosuing 
 (Modification, Applied to PDAs in 1 and 2, TPAs in 3)
 Make projects 1% more profitable in zone above. (Or is there a better proxy from the parking work? or other research?)
 
-## Inclusionary Zoning Medium
+## Inclusionary Zoning Low
 (Account, Applied to all Opportunity Jurisdiction, Deed-Restricted)
 
 ## Inclusionary Zoning Medium
 (Account, Applied to Jurisdictions with PDAs, Deed-Restricted)
 
-## Inclusionary Zoning Medium
+## Inclusionary Zoning High
 (Account, Applied to Big 3 Cities and Neighbors, Deed-Restricted)
 
 ## VMT Fees
