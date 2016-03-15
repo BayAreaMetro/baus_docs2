@@ -43,92 +43,59 @@ Sets a low level of inclusionary units requried with a proportion required of 0.
 Alameda
 Alameda County
 Albany
-American Canyon
-Antioch
 Atherton
 Belmont
 Belvedere
-Benicia
 Berkeley
-Brisbane
 Burlingame
 Campbell
 Cloverdale
-Colma
 Concord
 Contra Costa County
 Corte Madera
-Cotati
 Cupertino
-Daly City
 Danville
-Dixon
 Dublin
 East Palo Alto
 El Cerrito
 Emeryville
 Fairfax
-Fairfield
 Foster City
 Fremont
-Gilroy
-Hayward
-Hercules
 Lafayette
 Larkspur
-Livermore
 Los Altos
 Los Altos Hills
 Los Gatos
-Martinez
 Menlo Park
 Millbrae
 Milpitas
 Monte Sereno
 Moraga
-Morgan Hill
 Mountain View
-Napa
-Newark
-Oakland
-Oakley
 Orinda
 Palo Alto
-Petaluma
 Piedmont
-Pinole
-Pittsburg
-Pleasant Hill
 Pleasanton
 Redwood City
-Richmond
-Rohnert Park
 Ross
 San Anselmo
 San Bruno
 San Carlos
 San Francisco
 San Jose
-San Leandro
 San Mateo
 San Mateo County
-San Pablo
-San Rafael
 San Ramon
 Santa Clara
 Santa Rosa
 Saratoga
 Sausalito
-Sebastopol
-South San Francisco
-Suisun City
 Sunnyvale
 Tiburon
 Union City
-Vacaville
-Vallejo
 Walnut Creek
-Windsor
+
 
 ## Inclusionary Zoning Medium
 (Account, Applied to Jurisdictions with PDAs, Deed-Restricted)
