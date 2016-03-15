@@ -47,6 +47,7 @@ American Canyon
 Antioch
 Atherton
 Belmont
+Belvedere
 Benicia
 Berkeley
 Brisbane
@@ -56,6 +57,7 @@ Cloverdale
 Colma
 Concord
 Contra Costa County
+Corte Madera
 Cotati
 Cupertino
 Daly City
@@ -65,6 +67,7 @@ Dublin
 East Palo Alto
 El Cerrito
 Emeryville
+Fairfax
 Fairfield
 Foster City
 Fremont
@@ -72,7 +75,7 @@ Gilroy
 Hayward
 Hercules
 Lafayette
-Lake County
+Larkspur
 Livermore
 Los Altos
 Los Altos Hills
@@ -100,13 +103,11 @@ Pleasanton
 Redwood City
 Richmond
 Rohnert Park
-Sacramento County
-San Benito County
+Ross
+San Anselmo
 San Bruno
 San Carlos
 San Francisco
-San Francisco County
-San Joaquin County
 San Jose
 San Leandro
 San Mateo
@@ -115,20 +116,19 @@ San Pablo
 San Rafael
 San Ramon
 Santa Clara
-Santa Cruz County
 Santa Rosa
 Saratoga
+Sausalito
 Sebastopol
 South San Francisco
-Stanislaus County
 Suisun City
 Sunnyvale
+Tiburon
 Union City
 Vacaville
 Vallejo
 Walnut Creek
 Windsor
-Yolo County
 
 ## Inclusionary Zoning Medium
 (Account, Applied to Jurisdictions with PDAs, Deed-Restricted)
@@ -163,7 +163,6 @@ Gilroy
 Hayward
 Hercules
 Lafayette
-Lake County
 Livermore
 Los Altos
 Martinez
@@ -180,7 +179,6 @@ Oakley
 Orinda
 Palo Alto
 Petaluma
-Piedmont
 Pinole
 Pittsburg
 Pleasant Hill
@@ -188,13 +186,9 @@ Pleasanton
 Redwood City
 Richmond
 Rohnert Park
-Sacramento County
-San Benito County
 San Bruno
 San Carlos
 San Francisco
-San Francisco County
-San Joaquin County
 San Jose
 San Leandro
 San Mateo
@@ -203,11 +197,9 @@ San Pablo
 San Rafael
 San Ramon
 Santa Clara
-Santa Cruz County
 Santa Rosa
 Sebastopol
 South San Francisco
-Stanislaus County
 Suisun City
 Sunnyvale
 Union City
@@ -215,8 +207,6 @@ Vacaville
 Vallejo
 Walnut Creek
 Windsor
-Yolo County
-
 
 ## Inclusionary Zoning High
 (Account, Applied to Big 3 Cities and Neighbors, Deed-Restricted)
