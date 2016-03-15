@@ -59,7 +59,6 @@ Antioch
 Belmont
 Benicia
 Berkeley
-Brentwood
 Brisbane
 Burlingame
 Campbell
@@ -67,7 +66,6 @@ Cloverdale
 Colma
 Concord
 Contra Costa County
-Corte Madera
 Cotati
 Cupertino
 Daly City
@@ -77,7 +75,6 @@ Dublin
 East Palo Alto
 El Cerrito
 Emeryville
-Fairfax
 Fairfield
 Fremont
 Gilroy
@@ -85,22 +82,17 @@ Hayward
 Hercules
 Lafayette
 Lake County
-Larkspur
 Livermore
 Los Altos
-Marin County
 Martinez
 Menlo Park
-Mill Valley
 Millbrae
 Milpitas
 Moraga
 Morgan Hill
 Mountain View
 Napa
-Napa County
 Newark
-Novato
 Oakland
 Oakley
 Orinda
@@ -114,9 +106,7 @@ Pleasanton
 Redwood City
 Richmond
 Rohnert Park
-Ross
 Sacramento County
-San Anselmo
 San Benito County
 San Bruno
 San Carlos
@@ -133,22 +123,17 @@ San Ramon
 Santa Clara
 Santa Cruz County
 Santa Rosa
-Sausalito
 Sebastopol
 South San Francisco
-St. Helena
 Stanislaus County
 Suisun City
 Sunnyvale
-Tiburon
 Union City
 Vacaville
 Vallejo
 Walnut Creek
 Windsor
-Woodside
 Yolo County
-Yountville
 
 
 ## Inclusionary Zoning High
