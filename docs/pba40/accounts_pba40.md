@@ -50,27 +50,19 @@ Sets a relatively high level of inclusionary units requried with the proportion 
 
 ## Inclusionary Zoning Medium
 (Account, Applied to Jurisdictions with PDAs, Deed-Restricted)
-Sets a relatively high level of inclusionary units requried with the proportion required in each jurisdiction listed here:
-###inclusionary_housing_medium
-
-| juris         | prop |
-|---------------|------|
-| Alameda
-| Alameda County
-| Albany
-| American Canyon
-| Antioch
-| Atherton
-| Belmont
-| Belvedere
-| Benicia
+Sets a moderate level of inclusionary units requried with a proportion required of 0.1 for these jurisdictions: 
+Alameda
+Alameda County
+Albany
+American Canyon
+Antioch
+Belmont
+Benicia
 Berkeley
 Brentwood
 Brisbane
 Burlingame
-Calistoga
 Campbell
-Clayton
 Cloverdale
 Colma
 Concord
@@ -87,28 +79,21 @@ El Cerrito
 Emeryville
 Fairfax
 Fairfield
-Foster City
 Fremont
 Gilroy
-Half Moon Bay
 Hayward
-Healdsburg
 Hercules
-Hillsborough
 Lafayette
 Lake County
 Larkspur
 Livermore
 Los Altos
-Los Altos Hills
-Los Gatos
 Marin County
 Martinez
 Menlo Park
 Mill Valley
 Millbrae
 Milpitas
-Monte Sereno
 Moraga
 Morgan Hill
 Mountain View
@@ -119,7 +104,6 @@ Novato
 Oakland
 Oakley
 Orinda
-Pacifica
 Palo Alto
 Petaluma
 Piedmont
@@ -127,10 +111,8 @@ Pinole
 Pittsburg
 Pleasant Hill
 Pleasanton
-Portola Valley
 Redwood City
 Richmond
-Rio Vista
 Rohnert Park
 Ross
 Sacramento County
@@ -149,15 +131,10 @@ San Pablo
 San Rafael
 San Ramon
 Santa Clara
-Santa Clara County
 Santa Cruz County
 Santa Rosa
-Saratoga
 Sausalito
 Sebastopol
-Solano County
-Sonoma
-Sonoma County
 South San Francisco
 St. Helena
 Stanislaus County
