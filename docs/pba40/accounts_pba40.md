@@ -40,29 +40,150 @@ Make projects 1% more profitable in zone above. (Or is there a better proxy from
 ## Inclusionary Zoning Low
 (Account, Applied to all Opportunity Jurisdiction, Deed-Restricted)
 Sets a relatively high level of inclusionary units requried with the proportion required in each jurisdiction listed here:
-inclusionary_housing:
-  San Francisco: .2
-  Oakland: .2
-  San Jose: .2
+###inclusionary_housing_low
+
+| juris         | prop |
+|---------------|------|
+| San Francisco | 0.2  |
+| Oakland       | 0.2  |
+| San Jose      | 0.2  |
 
 ## Inclusionary Zoning Medium
 (Account, Applied to Jurisdictions with PDAs, Deed-Restricted)
 Sets a relatively high level of inclusionary units requried with the proportion required in each jurisdiction listed here:
-inclusionary_housing:
-  San Francisco: .2
-  Oakland: .2
-  San Jose: .2
+###inclusionary_housing_medium
+
+| juris         | prop |
+|---------------|------|
+| Alameda
+| Alameda County
+| Albany
+| American Canyon
+| Antioch
+| Atherton
+| Belmont
+| Belvedere
+| Benicia
+Berkeley
+Brentwood
+Brisbane
+Burlingame
+Calistoga
+Campbell
+Clayton
+Cloverdale
+Colma
+Concord
+Contra Costa County
+Corte Madera
+Cotati
+Cupertino
+Daly City
+Danville
+Dixon
+Dublin
+East Palo Alto
+El Cerrito
+Emeryville
+Fairfax
+Fairfield
+Foster City
+Fremont
+Gilroy
+Half Moon Bay
+Hayward
+Healdsburg
+Hercules
+Hillsborough
+Lafayette
+Lake County
+Larkspur
+Livermore
+Los Altos
+Los Altos Hills
+Los Gatos
+Marin County
+Martinez
+Menlo Park
+Mill Valley
+Millbrae
+Milpitas
+Monte Sereno
+Moraga
+Morgan Hill
+Mountain View
+Napa
+Napa County
+Newark
+Novato
+Oakland
+Oakley
+Orinda
+Pacifica
+Palo Alto
+Petaluma
+Piedmont
+Pinole
+Pittsburg
+Pleasant Hill
+Pleasanton
+Portola Valley
+Redwood City
+Richmond
+Rio Vista
+Rohnert Park
+Ross
+Sacramento County
+San Anselmo
+San Benito County
+San Bruno
+San Carlos
+San Francisco
+San Francisco County
+San Joaquin County
+San Jose
+San Leandro
+San Mateo
+San Mateo County
+San Pablo
+San Rafael
+San Ramon
+Santa Clara
+Santa Clara County
+Santa Cruz County
+Santa Rosa
+Saratoga
+Sausalito
+Sebastopol
+Solano County
+Sonoma
+Sonoma County
+South San Francisco
+St. Helena
+Stanislaus County
+Suisun City
+Sunnyvale
+Tiburon
+Union City
+Vacaville
+Vallejo
+Walnut Creek
+Windsor
+Woodside
+Yolo County
+Yountville
+
 
 ## Inclusionary Zoning High
 (Account, Applied to Big 3 Cities and Neighbors, Deed-Restricted)
 Sets a relatively high level of inclusionary units requried with the proportion required in each jurisdiction listed here:
-###inclusionary_housing
+###inclusionary_housing_high
 
 | juris         | prop |
 |---------------|------|
-| San Francisco | .2   |
-| Oakland       | .2   |
-| San Jose      | .2   |
+| San Francisco | 0.2  |
+| Oakland       | 0.2  |
+| San Jose      | 0.2  |
 
 
 ## VMT Fees
