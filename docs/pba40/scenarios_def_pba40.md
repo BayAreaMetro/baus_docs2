@@ -35,8 +35,8 @@
 * keeps existing 2010 jurisdictional development caps
 * second units allowed in all jurisdictions
 * residential parking minimums decreased in PDAs along rail
-* SB743 as in NP
-* OBAG as in TH
+* SB743 as in scen0
+* OBAG: In 2010 one account is set up for the entire region. Each year $200m is added to the account. In a given year, whatever is in the account is available to subsidize housing construction within any PDA in the region.
 * redev in jurisdictions with at least one PDA: Within each jurisdiction, 1% of the increase in value of all market-rate buildings is available to subsidize low-income housing construction within that jurisdiction's TPAs. (This is a redirection of taxation so ideally it wouldn't be a fee so it wouldn't slow constructon.)
 * vmt_fee_com assesses fees on office and retail construction in zones where employees have high average commute lengths. Zones are classified according to the variable nonres_cat in [vmt_fee_zonecats.csv](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/vmt_fee_zonecats.csv). Fee and subsidies by zone category are in VMT Fees by Zone Category Table below.
 * builds projects where scen1=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015
@@ -50,8 +50,8 @@
 * keeps existing 2010 jurisdictional development caps except raises SF office cap to 1.5m annually
 * second units along all jurisdictions along El Camino Real and East Bay Corridors
 * residential parking minimums decreased in PDAs that have high levels of transit access along El Camino Real and East Bay Corridors
-* SB743 as in NP
-* OBAG as in TH
+* SB743 as in scen0
+* OBAG as in scen1
 * inclusionary housing policy in jurisdictions with at least one PDA that taxes new housing construction to subsidize affordable housing construction within that jurisdiction. Within each jurisdiction that has one or more PDAs, 10% of the construction cost for market-rate housing built between 2010 and 2040 is assessed as a fee against the new construction and put into an account that is available to subsidize the construction of low-income housing units within any PDA in that jurisdiction. (This is a fee so ideally it would slow construction by making it less profitable.)
 * no vmt fee
 * builds projects where scen2=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015 
@@ -65,10 +65,10 @@
 * keeps existing 2010 jurisdictional development caps except drops SF office cap
 * second units allowed in Big 3 cities
 * residential parking minimums decreased in Big 3 cities and neighboring high transit cities 
-* SB743 as in NP
-* OBAG: In 2010 one account is set up for the entire region. Each year $200m is added to the account. In a given year, whatever is in the account is available to subsidize housing construction within any PDA in the region.
+* SB743 as in scen0
+* OBAG as in scen1
 * tax policy: land value tax in Big 3
-* vmt_fee_res assesses fees on residential construction in zones with households with high average commute lengths. Zones are classified according to the variable res_cat in [vmt_fee_zonecats.csv](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/vmt_fee_zonecats.csv). Fee and subsidies by zone category are in VMT Fees by Zone Category Table below.
+* vmt_fee_res assesses fees on residential construction in zones with households with high average commute lengths. Zones are classified according to the variable res_cat in [vmt_fee_zonecats.csv](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/vmt_fee_zonecats.csv).
 * builds projects where scen3=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015, and 3) very large mixed-use projects that have been designed and assessed for feasibility using spreadsheet pro formas 
 * scenario 3 network/policies
 
