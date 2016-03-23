@@ -10,7 +10,7 @@
 **DevProj** | where scen0=1 | where scen1=1 | where scen2=1 | where scen3=1                         
 **Sec Units** | *existing* | *everywhere* | *pdas* | *in big 3*
 **SubFee** | [sb743](accounts_pba40.md#sb743) | [inclusionary-low](accounts_pba40.md#inclusionary-zoning-low) <br> [*parceltax*](accounts_pba40.md#parcel-tax) <br> [*hu_capgains*](accounts_pba40.md#housing-capital-gains-tax) <br> [obag](accounts_pba40.md#obag) <br> [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | [inclusionary-medium](accounts_pba40.md#inclusionary-zoning-medium) <br> [obag](accounts_pba40.md#obag) <br>  [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | [inclusionary-high](accounts_pba40.md#inclusionary-zoning-high) <br> [obag](accounts_pba40.md#obag) <br> [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) 
-**VMT Fee** | none | com | *com* | [res](accounts_pba40.md#vmt-fees)
+**VMT Fee** | none | [com](accounts_pba40.md#vmt-fees) | [res](accounts_pba40.md#vmt-fees)
 **Pkg Mins** | existing | *decreased in pdas along rail* | *decreased in core pdas* | *decreased in big 3 and neighbors*
 **Tax** |  |  | | [*land value tax in big 3 and neighbors*](accounts_pba40.md#land-value-tax)                         
 **Net** |                           |                           |                           |                         
@@ -38,7 +38,7 @@
 * SB743 as in scen0
 * OBAG: In 2010 one account is set up for the entire region. Each year $200m is added to the account. In a given year, whatever is in the account is available to subsidize housing construction within any PDA in the region.
 * redev in jurisdictions with at least one PDA: Within each jurisdiction, 1% of the increase in value of all market-rate buildings is available to subsidize low-income housing construction within that jurisdiction's TPAs. (This is a redirection of taxation so ideally it wouldn't be a fee so it wouldn't slow constructon.)
-* vmt_fee_com assesses fees on office and retail construction in zones where employees have high average commute lengths. Zones are classified according to the variable nonres_cat in [vmt_fee_zonecats.csv](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/vmt_fee_zonecats.csv). Fee and subsidies by zone category are in VMT Fees by Zone Category Table below.
+* vmt_fee_com assesses fees on office and retail construction in zones where employees have high average commute lengths. Zones are classified according to the variable nonres_cat in [vmt_fee_zonecats.csv](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/vmt_fee_zonecats.csv).
 * builds projects where scen1=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015
 * scenario 1 network/policies
 
@@ -53,7 +53,7 @@
 * SB743 as in scen0
 * OBAG as in scen1
 * inclusionary housing policy in jurisdictions with at least one PDA that taxes new housing construction to subsidize affordable housing construction within that jurisdiction. Within each jurisdiction that has one or more PDAs, 10% of the construction cost for market-rate housing built between 2010 and 2040 is assessed as a fee against the new construction and put into an account that is available to subsidize the construction of low-income housing units within any PDA in that jurisdiction. (This is a fee so ideally it would slow construction by making it less profitable.)
-* no vmt fee
+* vmt_fee_com assesses fees on office and retail construction in zones where employees have high average commute lengths. Zones are classified according to the variable nonres_cat in [vmt_fee_zonecats.csv](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/vmt_fee_zonecats.csv).
 * builds projects where scen2=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015 
 * scenario 2 network/policies
 
