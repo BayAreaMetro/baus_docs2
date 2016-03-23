@@ -31,6 +31,7 @@
 
 ## Scenario 1
 
+* TODO: more emp movement to suburban subcenters
 * [zoning_mods_au](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_au.csv) upzones select suburban centers (res and com) and expands UGBs "faster than expected compared to past trends" so expands suburban area by 565 sq miles  (ubz, exp0, exp1, exp3_au, and expmaz(79sqmi) are upzoned)
 * keeps existing 2010 jurisdictional development caps
 * second units allowed in all jurisdictions
@@ -46,6 +47,7 @@
 
 ## Scenario 2
 
+* TODO: more in the corridors
 * [zoning_mods_pr](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_pr.csv) upzones PDAs to match their place type and assumes 2010 UGBs hold (maybe: existing true UGB/ULL and city boundaries where no limit) (ubz only) so 68 additional sq miles
 * keeps existing 2010 jurisdictional development caps except raises SF office cap to 1.5m annually
 * second units along all jurisdictions along El Camino Real and East Bay Corridors
@@ -61,6 +63,7 @@
 
 ## Scenario 3
 
+* TODO: more emp in big 3, more housing in oakland
 * [zoning_mods_th](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_th.csv) upzones areas with high transit access (with an emphasis on the Big 3 and their neighbors) and tightens UGBs to city boundaries
 * keeps existing 2010 jurisdictional development caps except drops SF office cap
 * second units allowed in Big 3 cities
