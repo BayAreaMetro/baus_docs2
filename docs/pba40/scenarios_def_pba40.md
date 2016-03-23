@@ -25,7 +25,7 @@
 * second units allowed in jurisdictions that allow in 2010
 * residential parking minimums as in 2010
 * SB743: To represent the EIR move from LOS to VMT, we want to do a slight "subsidy" in efficient VMT locations and a slight penalty in inefficient ones. Can we do %? Or we could translate into something like the VMT fee with absolute amounts. If % possible try as in SB743 Profitability Modification Table below
-* builds projects where np=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015
+* builds projects where scen0=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015
 * committed transportation network/policies
 
 ## Scenario 1
@@ -39,7 +39,7 @@
 * OBAG as in TH
 * redev in jurisdictions with at least one PDA: Within each jurisdiction, 1% of the increase in value of all market-rate buildings is available to subsidize low-income housing construction within that jurisdiction's TPAs. (This is a redirection of taxation so ideally it wouldn't be a fee so it wouldn't slow constructon.)
 * vmt_fee_com assesses fees on office and retail construction in zones where employees have high average commute lengths. Zones are classified according to the variable nonres_cat in [vmt_fee_zonecats.csv](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/vmt_fee_zonecats.csv). Fee and subsidies by zone category are in VMT Fees by Zone Category Table below.
-* builds projects where au=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015
+* builds projects where scen1=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015
 * scenario 1 network/policies
 
 
@@ -54,8 +54,7 @@
 * OBAG as in TH
 * inclusionary housing policy in jurisdictions with at least one PDA that taxes new housing construction to subsidize affordable housing construction within that jurisdiction. Within each jurisdiction that has one or more PDAs, 10% of the construction cost for market-rate housing built between 2010 and 2040 is assessed as a fee against the new construction and put into an account that is available to subsidize the construction of low-income housing units within any PDA in that jurisdiction. (This is a fee so ideally it would slow construction by making it less profitable.)
 * no vmt fee
-* additional adjustments from VisionSolver?
-* builds projects where pr=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015 
+* builds projects where scen2=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015 
 * scenario 2 network/policies
 
 
@@ -70,6 +69,6 @@
 * OBAG: In 2010 one account is set up for the entire region. Each year $200m is added to the account. In a given year, whatever is in the account is available to subsidize housing construction within any PDA in the region.
 * tax policy: land value tax in Big 3
 * vmt_fee_res assesses fees on residential construction in zones with households with high average commute lengths. Zones are classified according to the variable res_cat in [vmt_fee_zonecats.csv](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/vmt_fee_zonecats.csv). Fee and subsidies by zone category are in VMT Fees by Zone Category Table below.
-* builds projects where th=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015, and 3) very large mixed-use projects that have been designed and assessed for feasibility using spreadsheet pro formas 
+* builds projects where scen3=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015, and 3) very large mixed-use projects that have been designed and assessed for feasibility using spreadsheet pro formas 
 * scenario 3 network/policies
 
