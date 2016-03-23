@@ -17,7 +17,6 @@
                          
                          
 
-## IF CONFLICT TABLE ABOVE IS MORE UP TO DATE
 
 ## Scenario 0 (the No Project)
 
@@ -39,7 +38,6 @@
 * SB743 as in NP
 * OBAG as in TH
 * redev in jurisdictions with at least one PDA: Within each jurisdiction, 1% of the increase in value of all market-rate buildings is available to subsidize low-income housing construction within that jurisdiction's TPAs. (This is a redirection of taxation so ideally it wouldn't be a fee so it wouldn't slow constructon.)
-* take out fiscalization?
 * vmt_fee_com assesses fees on office and retail construction in zones where employees have high average commute lengths. Zones are classified according to the variable nonres_cat in [vmt_fee_zonecats.csv](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/vmt_fee_zonecats.csv). Fee and subsidies by zone category are in VMT Fees by Zone Category Table below.
 * builds projects where au=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015
 * scenario 1 network/policies
