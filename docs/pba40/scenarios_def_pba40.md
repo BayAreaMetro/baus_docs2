@@ -9,9 +9,9 @@
 **Caps** | existing | existing | raises SF OF cap to 1.5m | drops SF OF cap 
 **DevProj** | where scen0=1 | where scen1=1 | where scen2=1 | where scen3=1                         
 **Sec Units** | *existing* | *everywhere* | *pdas* | *in big 3*
-**SubFee** | [sb743](accounts_pba40.md#sb743) | [inclusionary-low](accounts_pba40.md#inclusionary-zoning-low) <br> [*parceltax*](accounts_pba40.md#parcel-tax) <br> [*hu_capgains*](accounts_pba40.md#housing-capital-gains-tax) <br> [obag](accounts_pba40.md#obag) <br> [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | [inclusionary-medium](accounts_pba40.md#inclusionary-zoning-medium) <br> [obag](accounts_pba40.md#obag) <br>  [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | [inclusionary-high](accounts_pba40.md#inclusionary-zoning-high) <br> [obag](accounts_pba40.md#obag) <br> [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) 
+**SubFee** | [sb743](accounts_pba40.md#sb743) | [inclusionary-low](accounts_pba40.md#inclusionary-zoning-low) <br> [parceltax](accounts_pba40.md#parcel-tax) <br> [hu_capgains](accounts_pba40.md#housing-capital-gains-tax) <br> [obag](accounts_pba40.md#obag) <br> [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | [inclusionary-medium](accounts_pba40.md#inclusionary-zoning-medium) <br> [obag](accounts_pba40.md#obag) <br>  [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | [inclusionary-high](accounts_pba40.md#inclusionary-zoning-high) <br> [obag](accounts_pba40.md#obag) <br> [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) 
 **VMT Fee** | none | [com](accounts_pba40.md#vmt-fees) | [com](accounts_pba40.md#vmt-fees) | [res](accounts_pba40.md#vmt-fees)
-**Pkg Mins** | existing | *decreased in pdas along rail* | *decreased in core pdas* | *decreased in big 3 and neighbors*
+**Pkg Mins** | existing | decreased in pdas along rail | decreased in core pdas | decreased in big 3 and neighbors
 **Tax** |  |  | | [*land value tax in big 3 and neighbors*](accounts_pba40.md#land-value-tax)                         
 **Net** |                           |                           |                           |                         
                          
