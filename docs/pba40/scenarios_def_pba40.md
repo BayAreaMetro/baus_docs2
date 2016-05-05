@@ -4,7 +4,7 @@
 
    S    |             0             |             1             |             2             |            3
 ------- | ------------------------- | ------------------------- | ------------------------- | -------------------------          
-**Zoning** | [existing](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_0.csv) | upzone select PDAs        | upzone PDAs to placetype  | upzone TPAs in Big3/core
+**Zoning** | [existing](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_0.csv) | upzone select PDAs        | upzone PDAs to placetype  | upzone TPAs in Big3 and neighbors
 **UGB** | expand by 389 sq mi | expand by 565 sq mi | existing UGBs/city limits add 68 sq mi | city boundaries 
 **Caps** | existing | existing | raises SF OF cap to 1.5m | drops SF OF cap 
 **DevProj** | where scen0=1 | where scen1=1 | where scen2=1 | where scen3=1                         
