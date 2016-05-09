@@ -71,3 +71,8 @@
 * builds projects where scen3=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015, and 3) very large mixed-use projects that have been designed and assessed for feasibility using spreadsheet pro formas 
 * scenario 3 network/policies
 
+
+## Scenario 4
+* all directions in writing from Cynthia only
+* 98% of what want for res
+* Santa Rosa too much housing (placetypes wrong)
