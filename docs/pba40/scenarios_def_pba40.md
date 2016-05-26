@@ -72,7 +72,7 @@
 * scenario 3 network/policies
 
 
-## Scenario 4
+## Scenario 4 (the Preferred Plan)
 * all directions in writing from Cynthia only
 * 98% of what want for res
 * Santa Rosa too much housing (placetypes wrong)
