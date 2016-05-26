@@ -2,18 +2,18 @@
 
 ## Concise Scenario Comparion
 
-   S    |             0             |             1             |             2             |            3
-------- | ------------------------- | ------------------------- | ------------------------- | -------------------------          
-**Zoning** | [existing](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_0.csv) | upzone select PDAs        | upzone PDAs to placetype  | upzone TPAs in Big3 and neighbors
-**UGB** | expand by 389 sq mi | expand by 565 sq mi | existing UGBs/city limits add 68 sq mi | city boundaries 
-**Caps** | existing | existing | raises SF OF cap to 1.5m | drops SF OF cap 
-**DevProj** | where scen0=1 | where scen1=1 | where scen2=1 | where scen3=1                         
-**Sec Units** | *existing* | *everywhere* | *pdas* | *in big 3*
-**SubFee** | [sb743](accounts_pba40.md#sb743) | [inclusionary-low](accounts_pba40.md#inclusionary-zoning-low) <br> [parceltax](accounts_pba40.md#parcel-tax) <br> [hu_capgains](accounts_pba40.md#housing-capital-gains-tax) <br> [obag](accounts_pba40.md#obag) <br> [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | [inclusionary-medium](accounts_pba40.md#inclusionary-zoning-medium) <br> [obag](accounts_pba40.md#obag) <br>  [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | [inclusionary-high](accounts_pba40.md#inclusionary-zoning-high) <br> [obag](accounts_pba40.md#obag) <br> [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) 
-**VMT Fee** | none | [com](accounts_pba40.md#vmt-fees) | NA | [res](accounts_pba40.md#vmt-fees)
-**Pkg Mins** | existing | decreased in pdas along rail | decreased in core pdas | decreased in big 3 and neighbors
-**Tax** |  |  | | [land value tax in big 3 and neighbors](accounts_pba40.md#land-value-tax)                         
-**Net** |                           |                           |                           |                         
+   S    |             0             |             1             |             2             |            3              |            4
+------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | -------------------------           
+**Zoning** | [existing](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_0.csv) | upzone select PDAs        | upzone PDAs to placetype  | upzone TPAs in Big3 and neighbors | ttt
+**UGB** | expand by 389 sq mi | expand by 565 sq mi | existing UGBs/city limits add 68 sq mi | city boundaries | ttt 
+**Caps** | existing | existing | raises SF OF cap to 1.5m | drops SF OF cap | ttt 
+**DevProj** | where scen0=1 | where scen1=1 | where scen2=1 | where scen3=1 | ttt                         
+**Sec Units** | *existing* | *everywhere* | *pdas* | *in big 3* | ttt
+**SubFee** | [sb743](accounts_pba40.md#sb743) | [inclusionary-low](accounts_pba40.md#inclusionary-zoning-low) <br> [parceltax](accounts_pba40.md#parcel-tax) <br> [hu_capgains](accounts_pba40.md#housing-capital-gains-tax) <br> [obag](accounts_pba40.md#obag) <br> [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | [inclusionary-medium](accounts_pba40.md#inclusionary-zoning-medium) <br> [obag](accounts_pba40.md#obag) <br>  [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | [inclusionary-high](accounts_pba40.md#inclusionary-zoning-high) <br> [obag](accounts_pba40.md#obag) <br> [tiering](accounts_pba40.md#ceqa-tiering) <br> [sb743](accounts_pba40.md#sb743) | ttt 
+**VMT Fee** | none | [com](accounts_pba40.md#vmt-fees) | NA | [res](accounts_pba40.md#vmt-fees) | ttt
+**Pkg Mins** | existing | decreased in pdas along rail | decreased in core pdas | decreased in big 3 and neighbors | ttt
+**Tax** |  |  | | [land value tax in big 3 and neighbors](accounts_pba40.md#land-value-tax) | ttt                         
+**Net** |                           |                           |                           | | ttt                         
                          
                          
 
@@ -76,3 +76,7 @@
 * all directions in writing from Cynthia only
 * 98% of what want for res
 * Santa Rosa too much housing (placetypes wrong)
+
+
+## Scenario 5
+* placeholder likely for use with autonoumous vehicles assessment
