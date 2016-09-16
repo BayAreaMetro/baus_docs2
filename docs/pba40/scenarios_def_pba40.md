@@ -20,7 +20,7 @@
 
 ## Scenario 0 (the No Project)
 
-* [zoning_mods_np](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_0.csv) expands suburban area by 389 sq miles (ubz, ubz_np, exp0, exp0_np, exp1, exp1_np, and exp2_np are upzoned)
+* [zoning_mods_0](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_0.csv) expands suburban area by 389 sq miles (ubz, ubz_np, exp0, exp0_np, exp1, exp1_np, and exp2_np are upzoned)
 * keeps existing 2010 jurisdictional development caps
 * second units allowed in jurisdictions that allow in 2010 (not implemented yet)
 * residential parking minimums as in 2010
@@ -31,7 +31,7 @@
 ## Scenario 1
 
 * TODO: more emp movement to suburban subcenters
-* [zoning_mods_au](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_au.csv) upzones select suburban centers (res and com) and expands UGBs "faster than expected compared to past trends" so expands suburban area by 565 sq miles  (ubz, exp0, exp1, exp3_au, and expmaz(79sqmi) are upzoned while avoiding PCAs)
+* [zoning_mods_1](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_au.csv) upzones select suburban centers (res and com) and expands UGBs "faster than expected compared to past trends" so expands suburban area by 565 sq miles  (ubz, exp0, exp1, exp3_au, and expmaz(79sqmi) are upzoned while avoiding PCAs)
 * keeps existing 2010 jurisdictional development caps
 * second units allowed in all jurisdictions (not implemented yet)
 * residential parking minimums decreased in PDAs along rail
@@ -45,7 +45,7 @@
 
 ## Scenario 2
 
-* [zoning_mods_pr](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_2.csv) upzones PDAs to match their place type and assumes 2010 UGBs hold (existing true UGB/ULL and city boundaries where no limit) (ubz only while avoiding PCAs) so 68 additional sq miles
+* [zoning_mods_2](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_2.csv) upzones PDAs to match their place type and assumes 2010 UGBs hold (existing true UGB/ULL and city boundaries where no limit) (ubz only while avoiding PCAs) so 68 additional sq miles
 * keeps existing 2010 jurisdictional development caps except raises SF office cap to 1.5m annually
 * second units along all jurisdictions along El Camino Real and East Bay Corridors (not implemented yet)
 * residential parking minimums decreased in PDAs that have high levels of transit access along El Camino Real and East Bay Corridors
@@ -59,7 +59,7 @@
 ## Scenario 3
 
 * TODO: more emp in big 3, more housing in oakland
-* [zoning_mods_th](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_3.csv) upzones areas with high transit access (with an emphasis on the Big 3 and their neighbors) and tightens UGBs to city boundaries
+* [zoning_mods_3](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_3.csv) upzones areas with high transit access (with an emphasis on the Big 3 and their neighbors) and tightens UGBs to city boundaries
 * keeps existing 2010 jurisdictional development caps except drops SF office cap
 * second units allowed in Big 3 cities (not implemented yet)
 * residential parking minimums decreased in Big 3 cities and neighboring high transit cities 
@@ -73,9 +73,15 @@
 
 
 ## Scenario 4 (the Preferred Plan)
-* all directions in writing from Cynthia only
-* 98% of what want for res
-* Santa Rosa too much housing (placetypes wrong)
+* [zoning_mods_4](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/zoning_mods_4.csv) upzones PDAs to match their place type and assumes 2010 UGBs hold (existing true UGB/ULL and city boundaries where no limit) (ubz only while avoiding PCAs) so 68 additional sq miles
+* keeps existing 2010 jurisdictional development caps except raises SF office cap to 1.5m annually
+* second units along all jurisdictions along El Camino Real and East Bay Corridors (not implemented yet)
+* residential parking minimums decreased in PDAs that have high levels of transit access along El Camino Real and East Bay Corridors
+* SB743 as in scen0
+* OBAG as in scen1
+* inclusionary housing policy in jurisdictions with at least one PDA that taxes new housing construction to subsidize affordable housing construction within that jurisdiction. 
+* builds projects where scen4=1 in [Development Projects](https://github.com/MetropolitanTransportationCommission/bayarea_urbansim/blob/master/data/development_projects.csv). These are 1) projects built between 2010 and 2015, and 2) large institutional projects started by 2015 
+* scenario 4 network/policies
 
 
 ## Scenario 5
