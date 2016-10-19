@@ -196,10 +196,10 @@ The fees in the table below are assessed on development in zones with higher VMT
 
 | Category| Residential VMT Fee Action          |Commercial VMT Fee Action             |
 |---------|-------------------------------------|--------------------------------------|
-| VH      | assess res dev fee $25,000 per HU   | assess com dev fee $20 per OF/RS sqft|
-| H       | assess res dev fee $15,000 per HU   | assess com dev fee $10 per OF/RS sqft|
-| MH      | assess res dev fee $5,000 per HU    | assess com dev fee $6 per OF/RS sqft |
-| M       | nothing                             | nothing                              |
+| VH      | assess res dev fee $25,000 per HU   | assess com dev fee $50 per OF/RS sqft|
+| H       | assess res dev fee $15,000 per HU   | assess com dev fee $30 per OF/RS sqft|
+| MH      | assess res dev fee $5,000 per HU    | assess com dev fee $20 per OF/RS sqft|
+| M       | nothing                             | assess com dev fee $6 per OF/RS sqft |
 | PDA     | money available to subsidize units  | money available to subsidize res units|
  
  
