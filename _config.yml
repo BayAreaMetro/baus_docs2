@@ -1,0 +1,39 @@
+# Dependencies
+#markdown: redcarpet
+#redcarpet:
+#  extensions: ["tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+
+highlighter:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Travel Model Two
+tagline:          'Metropolitan Transportation Commission'
+url:              http://metropolitantransportationcommission.github.io/baus_docs
+shorturl:         metropolitantransportationcommission.github.io/baus_docs
+
+author:
+  name:           'David Ory'
+  url:            https://github.com/DavidOry
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/metropolitantransportationcommission/baus_docs/tree/gh-pages
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  Guide: 'guide/'
+  Process: 'process/'
+  Geographies: 'geographies/'
+  Papers: 'papers/'
+
+# Allow URL Redirects: 
+#  * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from

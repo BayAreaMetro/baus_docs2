@@ -1,136 +1,47 @@
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
+  <url>
+    <loc>{{ site.url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% for post in site.posts %}
     <url>
-     <loc>None/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      {% if post.lastmod == null %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
     </url>
-    
-
-    
-        
-    <url>
-     <loc>None/pba40/pba40/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/pba40/scenarios_def_pba40/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/pba40/zoning_pba40/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/pba40/devproj_pba40/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/pba40/secondunits_pba40/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/pba40/accounts_pba40/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/pba40/modeloutput_pba40/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/pba40/perftargets_pba40/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/inputprep/baseyeargdb/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/inputprep/baseyearzoning/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/usersguide/computer/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/usersguide/setup/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/usersguide/input/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/usersguide/execution/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/usersguide/output/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/usersguide/schematic/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-    <url>
-     <loc>None/datarepository/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/development/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
+  {% endfor %}
+  {% for page in site.pages %}{% if page.layout != nil %}
+  <url>
+    <loc>{{ site.url }}{{ page.url }}</loc>
+    {% if page.sitemap.lastmod %}
+      <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+    {% elsif page.lastmod %}
+      <lastmod>{{ page.lastmod | date: "%Y-%m-%d" }}</lastmod>
+    {% elsif page.date %}
+      <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
+    {% else %}
+      <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+    {% endif %}
+    {% if page.sitemap.changefreq %}
+      <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+    {% else %}
+      <changefreq>monthly</changefreq>
+    {% endif %}
+    {% if page.sitemap.priority %}
+      <priority>{{ page.sitemap.priority }}</priority>
+    {% else %}
+      <priority>0.3</priority>
+    {% endif %}
+  </url>
+  {% endif %}{% endfor %}
 </urlset>
