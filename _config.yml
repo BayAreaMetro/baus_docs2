@@ -9,7 +9,7 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            Travel Model Two
+title:            UrbanSim
 tagline:          'Metropolitan Transportation Commission'
 url:              http://metropolitantransportationcommission.github.io/baus_docs
 shorturl:         metropolitantransportationcommission.github.io/baus_docs
